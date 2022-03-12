@@ -1,0 +1,9 @@
+[]
+title = ""
+url = ""
+entrySelector = ""
+titleSelector = ""
+linkSelector = ""
+contentSelector = ""
+imageSelector = ""
+waitUntil = "networkidle"
