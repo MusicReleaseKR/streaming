@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 23:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 01:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -678,7 +678,7 @@ heroincity (히어로인시티)
 <time datetime="">2022.04.02</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40735/4073566.jpg?version=20220403063556.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40735/4073566.jpg?version=20220404100614.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이 밤을 살아가는 너에게 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -708,7 +708,7 @@ heroincity (히어로인시티)
 <time datetime="">2022.04.02</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204596/20459692.jpg?version=20220402120006.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204596/20459692.jpg?version=20220404094446.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[백년 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -827,7 +827,7 @@ heroincity (히어로인시티)
 <time datetime="">2022.04.02</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204593/20459395.jpg?version=20220402120013.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204593/20459395.jpg?version=20220404102150.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노래 불러줘 (Vocal by 수연) (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -2827,7 +2827,7 @@ RUMEXX &amp; KEEGO
 <time datetime="">2022.04.02</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204596/20459692.jpg?version=1648868406000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204596/20459692.jpg?version=1649033086000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이 밤을 살아가는 너에게 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2965,7 +2965,7 @@ RUMEXX &amp; KEEGO
 <time datetime="">2022.04.02</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204593/20459395.jpg?version=1648868413000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204593/20459395.jpg?version=1649035310000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[끝이 아닌 것처럼 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
