@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 04:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 05:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -73,8 +73,8 @@
             <guid>https://music.bugs.co.kr/album/4073625?wl_ref=list_ab_03</guid>
             <pubDate>Tue, 05 Apr 2022 09:18:03 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80337971?wl_ref=list_ab_04" class="artistTitle" title="siso" onclick="
-" target="_self">siso</a>
+<a href="https://music.bugs.co.kr/artist/80337971?wl_ref=list_ab_04" class="artistTitle" title="siso(시소)" onclick="
+" target="_self">siso(시소)</a>
 </p>
 <p>
 <time datetime="">2022.04.05</time>
@@ -294,7 +294,7 @@ SHUYA
 <time datetime="">2022.04.06</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204598/20459842.jpg?version=20220406120020.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204598/20459842.jpg?version=20220406133313.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바보같은 나 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -846,7 +846,7 @@ Hayes
 <time datetime="">2022.04.05</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40737/4073722.jpg?version=20220406010051.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40737/4073722.jpg?version=20220406135908.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[봄여름가을겨울 (Still Life) (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1533,7 +1533,7 @@ Atzko Kohashi
 <time datetime="">2022.04.06</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/175931/17593121.jpg?version=20220406000020.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/175931/17593121.jpg?version=20220406134452.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Last War (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2145,7 +2145,7 @@ Bloodgroove
             <title><![CDATA[키즈타임즈_648 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20460359?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20460359?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20074726?wl_ref=list_ab_04" class="artistTitle" title="타임즈코어" onclick="
 " target="_self">타임즈코어</a>
@@ -2160,7 +2160,7 @@ Bloodgroove
             <title><![CDATA[잠 못 드는 사람들을 위한 피아노 자장가 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20460323?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20460323?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/63724?wl_ref=list_ab_04" class="artistTitle" title="아리야(Ariya)" onclick="
 " target="_self">아리야(Ariya)</a>
@@ -2175,7 +2175,7 @@ Bloodgroove
             <title><![CDATA[엄마와 아기를 위한 피아노 자장가 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20460320?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20460320?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/63724?wl_ref=list_ab_04" class="artistTitle" title="아리야(Ariya)" onclick="
 " target="_self">아리야(Ariya)</a>
@@ -2190,7 +2190,7 @@ Bloodgroove
             <title><![CDATA[서울 지하철 7호선 #6 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20460290?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20460290?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20104793?wl_ref=list_ab_04" class="artistTitle" title="Midorii(미도리)" onclick="
 " target="_self">Midorii(미도리)</a>
@@ -2205,7 +2205,7 @@ Bloodgroove
             <title><![CDATA[Moon 1st (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20460232?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20460232?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20157429?wl_ref=list_ab_04" class="artistTitle" title="Moon" onclick="
 " target="_self">Moon</a>
@@ -2220,7 +2220,7 @@ Bloodgroove
             <title><![CDATA[BACKYARD (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20460224?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20460224?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80359656?wl_ref=list_ab_04" class="artistTitle" title="JUNGBIN" onclick="
 " target="_self">JUNGBIN</a>
@@ -2235,7 +2235,7 @@ Bloodgroove
             <title><![CDATA[The Land l’m Livin’ in (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20460052?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20460052?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <!-- a tag title -->
 <a href="https://music.bugs.co.kr/artist/20087839?wl_ref=list_ab_04" class="artistTitle" title="Jonathan David Helser">Jonathan David Helser</a>
@@ -2253,7 +2253,7 @@ Jonathan David Helser
             <title><![CDATA[성금연류 가야금산조 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20460036?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20460036?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20052700?wl_ref=list_ab_04" class="artistTitle" title="김보경" onclick="
 " target="_self">김보경</a>
@@ -2268,7 +2268,7 @@ Jonathan David Helser
             <title><![CDATA[COLLABORATION2 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20459981?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20459981?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20156332?wl_ref=list_ab_04" class="artistTitle" title="COLLAGE" onclick="
 " target="_self">COLLAGE</a>
@@ -2283,7 +2283,7 @@ Jonathan David Helser
             <title><![CDATA[해피 버라이어티 투 유 - 골라 듣는 생일축하송 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20459651?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20459651?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20116194?wl_ref=list_ab_04" class="artistTitle" title="원더라이브러리" onclick="
 " target="_self">원더라이브러리</a>
@@ -2313,7 +2313,7 @@ Jonathan David Helser
             <title><![CDATA[만남 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20459588?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20459588?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20098995?wl_ref=list_ab_04" class="artistTitle" title="전병주" onclick="
 " target="_self">전병주</a>
@@ -2328,7 +2328,7 @@ Jonathan David Helser
             <title><![CDATA[김은희의 인생노래 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20459234?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20459234?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80133043?wl_ref=list_ab_04" class="artistTitle" title="김은희" onclick="
 " target="_self">김은희</a>
@@ -2343,7 +2343,7 @@ Jonathan David Helser
             <title><![CDATA[신나는 트로트 모음 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20459199?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20459199?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20096974?wl_ref=list_ab_04" class="artistTitle" title="김사랑" onclick="
 " target="_self">김사랑</a>
@@ -2358,7 +2358,7 @@ Jonathan David Helser
             <title><![CDATA[방긋방긋 웃음동요 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20459197?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20459197?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20157127?wl_ref=list_ab_04" class="artistTitle" title="파도" onclick="
 " target="_self">파도</a>
@@ -2373,7 +2373,7 @@ Jonathan David Helser
             <title><![CDATA[싱싱 메들리 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20459192?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20459192?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80095315?wl_ref=list_ab_04" class="artistTitle" title="조애자" onclick="
 " target="_self">조애자</a>
@@ -2388,7 +2388,7 @@ Jonathan David Helser
             <title><![CDATA[새 봄이 오면 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/4073651?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4073651?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80359718?wl_ref=list_ab_04" class="artistTitle" title="OHDH(오드)" onclick="
 " target="_self">OHDH(오드)</a>
@@ -2403,7 +2403,7 @@ Jonathan David Helser
             <title><![CDATA[여친구함 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20460387?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20460387?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20134906?wl_ref=list_ab_04" class="artistTitle" title="조효준" onclick="
 " target="_self">조효준</a>
@@ -2418,7 +2418,7 @@ Jonathan David Helser
             <title><![CDATA[김유하의 음악여행스케치 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20460262?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20460262?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20157445?wl_ref=list_ab_04" class="artistTitle" title="김유하" onclick="
 " target="_self">김유하</a>
@@ -2433,7 +2433,7 @@ Jonathan David Helser
             <title><![CDATA[Could I Dream with love? (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20460248?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20460248?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20122939?wl_ref=list_ab_04" class="artistTitle" title="Willy (윌리)" onclick="
 " target="_self">Willy (윌리)</a>
@@ -2463,7 +2463,7 @@ Jonathan David Helser
             <title><![CDATA[언제나 함께 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20460190?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20460190?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20091892?wl_ref=list_ab_04" class="artistTitle" title="캉쿤" onclick="
 " target="_self">캉쿤</a>
@@ -2478,7 +2478,7 @@ Jonathan David Helser
             <title><![CDATA[Perses (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20460156?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20460156?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20157401?wl_ref=list_ab_04" class="artistTitle" title="프시" onclick="
 " target="_self">프시</a>
@@ -2508,7 +2508,7 @@ Jonathan David Helser
             <title><![CDATA[Star:t (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20460082?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20460082?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20139529?wl_ref=list_ab_04" class="artistTitle" title="BandWagon" onclick="
 " target="_self">BandWagon</a>
@@ -2523,7 +2523,7 @@ Jonathan David Helser
             <title><![CDATA[라헬의 눈물 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20459947?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20459947?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20157335?wl_ref=list_ab_04" class="artistTitle" title="토비아 앙상블" onclick="
 " target="_self">토비아 앙상블</a>
@@ -2538,7 +2538,7 @@ Jonathan David Helser
             <title><![CDATA[My Memory :) lofi hiphop mix (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20459920?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20459920?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20142888?wl_ref=list_ab_04" class="artistTitle" title="O.T.O" onclick="
 " target="_self">O.T.O</a>
@@ -2553,7 +2553,7 @@ Jonathan David Helser
             <title><![CDATA[Fault Line (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20459665?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20459665?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20157267?wl_ref=list_ab_04" class="artistTitle" title="신규리" onclick="
 " target="_self">신규리</a>
@@ -2568,7 +2568,7 @@ Jonathan David Helser
             <title><![CDATA[꿈이 잠의 일이라면 - 밤을 위한 피아노 연주곡 Vol.1 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20459641?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20459641?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20116194?wl_ref=list_ab_04" class="artistTitle" title="원더라이브러리" onclick="
 " target="_self">원더라이브러리</a>
@@ -2583,7 +2583,7 @@ Jonathan David Helser
             <title><![CDATA[그녀 마음속을 산책할 수 있다면 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20459626?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20459626?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20123014?wl_ref=list_ab_04" class="artistTitle" title="이용민" onclick="
 " target="_self">이용민</a>
@@ -2598,7 +2598,7 @@ Jonathan David Helser
             <title><![CDATA[Uncle Parka EP6 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20459572?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20459572?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20096578?wl_ref=list_ab_04" class="artistTitle" title="엉클파카" onclick="
 " target="_self">엉클파카</a>
@@ -2613,7 +2613,7 @@ Jonathan David Helser
             <title><![CDATA[Little Love of Mine (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20459497?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20459497?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20113593?wl_ref=list_ab_04" class="artistTitle" title="Wooden Chair" onclick="
 " target="_self">Wooden Chair</a>
@@ -2628,7 +2628,7 @@ Jonathan David Helser
             <title><![CDATA[사랑하긴 하니까 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20459365?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20459365?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Apr 2022 04:24:32 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 04:24:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20157188?wl_ref=list_ab_04" class="artistTitle" title="유새연" onclick="
 " target="_self">유새연</a>
