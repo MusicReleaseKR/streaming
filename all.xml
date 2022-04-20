@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 09:31:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 10:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -95,7 +95,7 @@
 <time datetime="">2022.04.20</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40745/4074520.jpg?version=20220420180018.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40745/4074520.jpg?version=20220420184120.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[4월 이야기 (2022 ver.) (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1384,7 +1384,7 @@ AK
             <title><![CDATA[The Last Thing Left (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/20455961?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20455961?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 20 Apr 2022 09:31:30 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 09:31:09 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80206132?wl_ref=list_ab_04" class="artistTitle" title="세이수미(Say Sue Me)" onclick="
 " target="_self">세이수미(Say Sue Me)</a>
@@ -2131,19 +2131,19 @@ Umberto Poli
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204630/20463014.jpg?version=20220420120019.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[피아노 찬송가 vol.9 : 회개와 용서 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20462994?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20462994?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 20 Apr 2022 03:44:38 GMT</pubDate>
+            <title><![CDATA[그날, 우리는 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/20463007?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20463007?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 20 Apr 2022 09:31:09 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20143454?wl_ref=list_ab_04" class="artistTitle" title="이윤정" onclick="
-" target="_self">이윤정</a>
+<a href="https://music.bugs.co.kr/artist/20113561?wl_ref=list_ab_04" class="artistTitle" title="엘랍 (A-LIVE)" onclick="
+" target="_self">엘랍 (A-LIVE)</a>
 </p>
 <p>
 <time datetime="">2022.04.20</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204629/20462994.jpg?version=20220420120019.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204630/20463007.jpg?version=20220420180018.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Esabit Vol.9 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2344,7 +2344,7 @@ Umberto Poli
             <title><![CDATA[The Last Thing Left (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20455961?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20455961?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 20 Apr 2022 09:31:48 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 09:31:09 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80206132?wl_ref=list_ab_04" class="artistTitle" title="세이수미(Say Sue Me)" onclick="
 " target="_self">세이수미(Say Sue Me)</a>
@@ -2479,7 +2479,7 @@ Umberto Poli
             <title><![CDATA[그날, 우리는 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20463007?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20463007?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 20 Apr 2022 09:31:48 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 09:31:09 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20113561?wl_ref=list_ab_04" class="artistTitle" title="엘랍 (A-LIVE)" onclick="
 " target="_self">엘랍 (A-LIVE)</a>
@@ -2587,7 +2587,7 @@ ZIDOK
             <title><![CDATA[Young Five Story 1 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20462834?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20462834?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 20 Apr 2022 09:31:48 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 09:31:09 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20140132?wl_ref=list_ab_04" class="artistTitle" title="Young Five" onclick="
 " target="_self">Young Five</a>
@@ -2722,7 +2722,7 @@ ZIDOK
             <title><![CDATA[Hold That Thought (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/17643344?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/17643344?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 20 Apr 2022 09:31:48 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 09:31:09 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20042482?wl_ref=list_ab_04" class="artistTitle" title="Faver(페이버)" onclick="
 " target="_self">Faver(페이버)</a>
@@ -2752,7 +2752,7 @@ ZIDOK
             <title><![CDATA[Seoul (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/4074262?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4074262?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 20 Apr 2022 09:31:48 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 09:31:09 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80210668?wl_ref=list_ab_04" class="artistTitle" title="볼빨간사춘기" onclick="
 " target="_self">볼빨간사춘기</a>
@@ -2767,7 +2767,7 @@ ZIDOK
             <title><![CDATA[YOUNI-BIRTH (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/4073503?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4073503?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 20 Apr 2022 09:31:48 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 09:31:09 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/80370055?wl_ref=list_ab_04" class="artistTitle" title="YOUNITE" onclick="
 " target="_self">YOUNITE</a>
@@ -3163,7 +3163,7 @@ RyoT(료티)​
             <title><![CDATA[independence1＋ (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20463108?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20463108?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 20 Apr 2022 09:31:49 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 09:31:09 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20149104?wl_ref=list_ab_04" class="artistTitle" title="gnook" onclick="
 " target="_self">gnook</a>
