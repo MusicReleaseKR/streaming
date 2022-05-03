@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 16:32:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 17:34:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
 <time datetime="">2022.05.03</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204658/20465833.jpg?version=1651546822000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204658/20465833.jpg?version=1651596704000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다나랜드 인기동요 5]]></title>
@@ -140,7 +140,7 @@
 <time datetime="">2022.05.03</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204653/20465371.jpg?version=1651546822000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204653/20465371.jpg?version=1651595569000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마코빌 프렌즈 : 반려동물송]]></title>
@@ -356,7 +356,7 @@
 <time datetime="">2022.05.03</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204641/20464163.jpg?version=1651546822000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204641/20464163.jpg?version=1651596274000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고전음악편곡연주작품 제2집]]></title>
@@ -761,7 +761,7 @@
 <time datetime="">2022.05.03</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204657/20465713.jpg?version=1651546822000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204657/20465713.jpg?version=1651595651000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[up]]></title>
