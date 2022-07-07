@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 04:50:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 05:27:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1334,21 +1334,6 @@ Nakkia Gold
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204773/20477358.jpg?version=20220707120022.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[그대와 같이 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/20477302?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20477302?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 07 Jul 2022 03:51:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20162867?wl_ref=list_ab_04" class="artistTitle" title="유영민" onclick="
-" target="_self">유영민</a>
-</p>
-<p>
-<time datetime="">2022.07.07</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204773/20477302.jpg?version=20220707120022.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Hoff Dylan (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/20475994?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20475994?wl_ref=list_ab_03</guid>
@@ -1820,21 +1805,6 @@ Ngielix
             <enclosure url="https://image.bugsm.co.kr/album/images/170/181253/18125388.jpg?version=20220707000012.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Today's Haul (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/18083904?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18083904?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 06 Jul 2022 15:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12787816?wl_ref=list_ab_04" class="artistTitle" title="Femmes de la Mer" onclick="
-" target="_self">Femmes de la Mer</a>
-</p>
-<p>
-<time datetime="">2022.07.07</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/180839/18083904.jpg?version=20220707000012.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[THE TIME MACHINE (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
             <link>https://music.bugs.co.kr/album/4077509?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4077509?wl_ref=list_ab_03</guid>
@@ -2135,6 +2105,35 @@ Ngielix
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204772/20477281.jpg?version=20220707120022.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KAMEN RIDER 50th Anniversary SONG BEST BOX (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/20477271?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20477271?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 07 Jul 2022 05:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<span class="artistTitle" title="">Various Artists</span>
+</p>
+<p>
+<time datetime="">2022.07.07</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204772/20477271.jpg?version=20220707120022.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[一等星☆ / 野に咲く花／ITTOSEI☆ / NONISAKUHANA (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/20477008?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20477008?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 07 Jul 2022 05:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80001561?wl_ref=list_ab_04" class="artistTitle" title="Ketsumeishi(케츠메이시/ケツメイシ)" onclick="
+" target="_self">Ketsumeishi(케츠메이시/ケツメイシ)</a>
+</p>
+<p>
+<time datetime="">2022.07.07</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204770/20477008.jpg?version=20220707120022.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LAND (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20478379?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20478379?wl_ref=list_ab_03</guid>
@@ -2298,21 +2297,6 @@ Ngielix
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204775/20477540.jpg?version=1657162822000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그대와 같이 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20477302?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20477302?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 07 Jul 2022 03:51:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20162867?wl_ref=list_ab_04" class="artistTitle" title="유영민" onclick="
-" target="_self">유영민</a>
-</p>
-<p>
-<time datetime="">2022.07.07</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204773/20477302.jpg?version=1657162822000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Past Emotion (지나간 감정) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2915,21 +2899,6 @@ Ngielix
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204783/20478306.jpg?version=1657162815000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공예문 Project - 선물 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
-            <link>https://music.bugs.co.kr/album/20478292?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20478292?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 07 Jul 2022 03:52:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20095399?wl_ref=list_ab_04" class="artistTitle" title="Mondo" onclick="
-" target="_self">Mondo</a>
-</p>
-<p>
-<time datetime="">2022.07.07</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204782/20478292.jpg?version=1657169399000" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[ICE LAND (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20478288?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20478288?wl_ref=list_ab_03</guid>
@@ -3186,6 +3155,36 @@ Sonny Zero
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204780/20478051.jpg?version=1657162822000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더위 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20478042?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20478042?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 07 Jul 2022 05:27:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20160381?wl_ref=list_ab_04" class="artistTitle" title="이형석" onclick="
+" target="_self">이형석</a>
+</p>
+<p>
+<time datetime="">2022.07.07</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204780/20478042.jpg?version=1657162822000" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I Can't Love (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <link>https://music.bugs.co.kr/album/20478037?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20478037?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 07 Jul 2022 05:27:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20087895?wl_ref=list_ab_04" class="artistTitle" title="로이다보이 (ROY DA BOI)" onclick="
+" target="_self">로이다보이 (ROY DA BOI)</a>
+</p>
+<p>
+<time datetime="">2022.07.07</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204780/20478037.jpg?version=1657162822000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
