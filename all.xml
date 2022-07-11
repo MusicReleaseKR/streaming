@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 22:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 23:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -239,7 +239,7 @@ KIND
 <time datetime="">2022.07.11</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204788/20478864.jpg?version=20220711120019.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204788/20478864.jpg?version=20220712071918.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잊기가 참 힘이 드나봐 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -950,7 +950,7 @@ Mew Suppasit
 <time datetime="">2022.07.10</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204788/20478858.jpg?version=20220710120021.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204788/20478858.jpg?version=20220712071917.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BAIT (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -2129,7 +2129,7 @@ No Spirit
 <time datetime="">2022.07.11</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204788/20478880.jpg?version=20220711120026.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204788/20478880.jpg?version=20220712071918.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[You & Me (Feat. 나강민) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2144,7 +2144,7 @@ No Spirit
 <time datetime="">2022.07.11</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204788/20478878.jpg?version=20220711120026.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204788/20478878.jpg?version=20220712071918.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bare&Rare Pt.1 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2570,7 +2570,7 @@ No Spirit
 <time datetime="">2022.07.11</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204788/20478880.jpg?version=1657508426000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204788/20478880.jpg?version=1657577958000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[You & Me (Feat. 나강민) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2585,7 +2585,7 @@ No Spirit
 <time datetime="">2022.07.11</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204788/20478878.jpg?version=1657508426000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204788/20478878.jpg?version=1657577958000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[눈맞춤 moment(착각꾸러미) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
