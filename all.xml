@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 07:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 08:28:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2336,7 +2336,7 @@ NHK Symphony Orchestra
 " target="_self">이영화</a>
 </p>
 <p>
-<time datetime="">2022.07.20</time>
+<time datetime="">2008.02.11</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/40778/4077897.jpg?version=1658286025000" length="0" type="image/jpg"/>
