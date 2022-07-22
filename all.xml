@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 23:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 01:56:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1045,7 +1045,7 @@ Cecilia Gault
 <time datetime="">2022.07.20</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/182184/18218444.jpg?version=20220721064045.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/182184/18218444.jpg?version=20220722102216.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이상한 변호사 우영우 OST Part.4 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1214,6 +1214,24 @@ Runkus
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/176563/17656357.jpg?version=20220722033006.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Farsi male (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
+            <link>https://music.bugs.co.kr/album/16495074?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/16495074?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Jul 2022 01:56:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12407789?wl_ref=list_ab_04" class="artistTitle" title="FRE">FRE</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'FRE||FRE||12407789||OK\\nCaneda||Caneda||80168243||OK', ''); return false;">
+FRE
+</a> </p>
+<p>
+<time datetime="">2022.07.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/164950/16495074.jpg?version=20220722090004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무법자 (Outlaw) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2141,21 +2159,6 @@ Milc
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/180839/18083904.jpg?version=20220722063106.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DAAANGER (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
-            <link>https://music.bugs.co.kr/album/18083247?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/18083247?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 21 Jul 2022 03:44:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11004298?wl_ref=list_ab_04" class="artistTitle" title="LEVi" onclick="
-" target="_self">LEVi</a>
-</p>
-<p>
-<time datetime="">2022.07.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/180832/18083247.jpg?version=20220722063142.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무법자 (Outlaw) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
