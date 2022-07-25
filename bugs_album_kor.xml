@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 03:49:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 04:52:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,7 +110,7 @@
 <time datetime="">2022.07.25</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204812/20481228.jpg?version=1658718018000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204812/20481228.jpg?version=1658722731000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나는 가수다]]></title>
