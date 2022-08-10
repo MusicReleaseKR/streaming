@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 01:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 03:06:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nostalgia]]></title>
+            <link>https://music.bugs.co.kr/album/18210009?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/18210009?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 10 Aug 2022 03:06:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12455001?wl_ref=list_ab_04" class="artistTitle" title="Exopay" onclick="
+" target="_self">Exopay</a>
+</p>
+<p>
+<time datetime="">2022.08.10</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/182100/18210009.jpg?version=20220810120022.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로티프렌즈 아쿠아리움 영어동요]]></title>
             <link>https://music.bugs.co.kr/album/20485074?wl_ref=list_ab_03</link>
@@ -1047,21 +1062,6 @@ Prunk
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/204850/20485012.jpg?version=20220809120013.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Traveler]]></title>
-            <link>https://music.bugs.co.kr/album/20485006?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20485006?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 09 Aug 2022 03:47:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20094603?wl_ref=list_ab_04" class="artistTitle" title="기훈 (KIHUN)" onclick="
-" target="_self">기훈 (KIHUN)</a>
-</p>
-<p>
-<time datetime="">2022.08.09</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204850/20485006.jpg?version=20220809120018.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
