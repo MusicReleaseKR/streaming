@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 05:29:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 06:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2013,7 +2013,7 @@ Studio 100
 <time datetime="">2022.08.19</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/189870/18987009.jpg?version=20220819021017.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/189870/18987009.jpg?version=20220819143002.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Heiner Goebbels: A House of Call - My Imaginary Notebook (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2073,7 +2073,7 @@ Studio 100
 <time datetime="">2022.08.19</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/189869/18986985.jpg?version=20220819021637.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/189869/18986985.jpg?version=20220819152510.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ace Of Spades (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
