@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 23:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 01:57:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,7 +286,7 @@ Saint Pablo
 <time datetime="">2022.08.21</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/190776/19077632.jpg?version=20220821012140.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/190776/19077632.jpg?version=20220822101332.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Grown]]></title>
