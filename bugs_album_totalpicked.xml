@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 09:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 10:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -155,7 +155,7 @@
 <time datetime="">2022.09.13</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/204915/20491544.jpg?version=20220913180005.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/204915/20491544.jpg?version=20220913182254.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PLAYLIST (플레이리스트) OST Part.2]]></title>
