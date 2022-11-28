@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 02:58:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 03:32:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑은 너무 어려워]]></title>
+            <link>https://music.bugs.co.kr/album/20526810?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20526810?wl_ref=list_ab_03</guid>
+            <pubDate>Mon, 28 Nov 2022 03:32:25 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20172686?wl_ref=list_ab_04" class="artistTitle" title="다포니" onclick="
+" target="_self">다포니</a>
+</p>
+<p>
+<time datetime="">2022.11.28</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205268/20526810.jpg?version=20221128120008.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Až budu velká, chci být Aneta Charitonova]]></title>
             <link>https://music.bugs.co.kr/album/30227437?wl_ref=list_ab_03</link>
@@ -529,7 +544,7 @@ The Hollywood Edge Sound Effects Library
 <time datetime="">2022.11.27</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/300158/30015830.jpg?version=20221126015652.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/300158/30015830.jpg?version=20221128121959.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Place of Places]]></title>
@@ -1079,21 +1094,6 @@ Funk 24Por48
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/301841/30184149.jpg?version=20221128063444.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Motivation (Uncle Pard Remix)]]></title>
-            <link>https://music.bugs.co.kr/album/30184020?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30184020?wl_ref=list_ab_03</guid>
-            <pubDate>Sun, 27 Nov 2022 04:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11974486?wl_ref=list_ab_04" class="artistTitle" title="Thicc Sharon" onclick="
-" target="_self">Thicc Sharon</a>
-</p>
-<p>
-<time datetime="">2022.11.27</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/301840/30184020.jpg?version=20221128063455.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
