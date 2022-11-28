@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 23:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 01:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -943,7 +943,7 @@ Jimmy Brown
 <time datetime="">2022.11.25</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205301/20530112.jpg?version=20221125180003.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205301/20530112.jpg?version=20221128101003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[펜스 밖은 해피엔딩 OST Part 1 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
