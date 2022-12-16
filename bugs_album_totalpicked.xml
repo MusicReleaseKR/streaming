@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 22:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 23:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,7 +64,7 @@
 <time datetime="">2022.12.16</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40823/4082354.jpg?version=20221217015006.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40823/4082354.jpg?version=20221217071658.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SUNSET]]></title>
@@ -112,7 +112,7 @@
 <time datetime="">2022.12.16</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40823/4082351.jpg?version=20221216180001.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40823/4082351.jpg?version=20221217071701.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Raw Gems Vol.1]]></title>
@@ -142,7 +142,7 @@
 <time datetime="">2022.12.16</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/303719/30371902.jpg?version=20221217013824.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/303719/30371902.jpg?version=20221217071659.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ride or Die]]></title>
@@ -175,7 +175,7 @@
 <time datetime="">2022.12.16</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40823/4082329.jpg?version=20221216180001.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40823/4082329.jpg?version=20221217071658.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아무것도 하고 싶지 않아 OST Part 9]]></title>
@@ -271,7 +271,7 @@
 <time datetime="">2022.12.16</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40823/4082355.jpg?version=20221217025904.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40823/4082355.jpg?version=20221217071656.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Avatar: The Way of Water (Original Motion Picture Soundtrack)]]></title>
@@ -289,7 +289,7 @@ Simon Franglen
 <time datetime="">2022.12.15</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/304417/30441728.jpg?version=20221217040001.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/304417/30441728.jpg?version=20221217075502.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무료 나눔]]></title>
