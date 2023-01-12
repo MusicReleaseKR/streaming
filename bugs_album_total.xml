@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 15:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 16:39:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,7 +80,7 @@
 <time datetime="">2023.01.12</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/308709/30870995.jpg?version=20230112174020.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/308709/30870995.jpg?version=20230113002702.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Gravity of the Immaterial]]></title>
@@ -170,7 +170,7 @@
 <time datetime="">2023.01.12</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/308596/30859644.jpg?version=20230112191501.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/308596/30859644.jpg?version=20230113012607.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eternal Time]]></title>
@@ -842,7 +842,7 @@ Ocean Sounds
 <time datetime="">2023.01.12</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205394/20539422.jpg?version=20230112120009.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205394/20539422.jpg?version=20230113004013.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sensed it]]></title>
