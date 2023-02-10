@@ -4,27 +4,9 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 08:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 09:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[The Sound of Simon Rattle]]></title>
-            <link>https://music.bugs.co.kr/album/30994948?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/30994948?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 10 Feb 2023 04:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/35545?wl_ref=list_ab_04" class="artistTitle" title="Berliner Philharmoniker(베를린 필하모닉 오케스트라)">Berliner Philharmoniker(베를린 필하모닉 오케스트라)</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Berliner Philharmoniker||Berliner Philharmoniker(베를린 필하모닉 오케스트라)||35545||OK\\nSir Simon Rattle||Sir Simon Rattle||12238939||OK', ''); return false;">
-Berliner Philharmoniker(베를린 필하모닉 오케스트라)
-</a> </p>
-<p>
-<time datetime="">2023.02.10</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/309949/30994948.jpg?version=20230210044016.0" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[This Morning (The Album)]]></title>
             <link>https://music.bugs.co.kr/album/30994295?wl_ref=list_ab_03</link>
@@ -1059,6 +1041,21 @@ Stella Lamar
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/309868/30986871.jpg?version=20230210015137.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kanwariya Bam Bam Boli]]></title>
+            <link>https://music.bugs.co.kr/album/30986643?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30986643?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 10 Feb 2023 09:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11172311?wl_ref=list_ab_04" class="artistTitle" title="Kumar Alam" onclick="
+" target="_self">Kumar Alam</a>
+</p>
+<p>
+<time datetime="">2023.02.10</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309866/30986643.jpg?version=20230210011429.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
