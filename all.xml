@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 21:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 22:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,7 +50,7 @@
 <time datetime="">2023.03.06</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40842/4084295.jpg?version=20230307012800.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40842/4084295.jpg?version=20230307064017.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nostalgia (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -65,7 +65,7 @@
 <time datetime="">2023.03.06</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40842/4084281.jpg?version=20230306180024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40842/4084281.jpg?version=20230307064018.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Avalon (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -188,7 +188,7 @@ AVND
 <time datetime="">2023.03.06</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/311614/31161476.jpg?version=20230307005851.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311614/31161476.jpg?version=20230307064001.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연애의 참견 2023 OST - Part.6 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -263,7 +263,7 @@ AVND
 <time datetime="">2023.03.06</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40842/4084278.jpg?version=20230306120025.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40842/4084278.jpg?version=20230307064008.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[봄을 만든다 (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1099,7 +1099,7 @@ TWOPILOTS
 <time datetime="">2023.03.06</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/311634/31163472.jpg?version=20230307002955.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311634/31163472.jpg?version=20230307063726.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Happy Holi 2023 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1113,7 +1113,7 @@ TWOPILOTS
 <time datetime="">2023.03.06</time>
 <span class="albumType">컴필레이션</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/311634/31163465.jpg?version=20230307002328.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311634/31163465.jpg?version=20230307063543.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Holi After Party Mix (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1127,7 +1127,7 @@ TWOPILOTS
 <time datetime="">2023.03.06</time>
 <span class="albumType">컴필레이션</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/311634/31163464.jpg?version=20230307010959.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311634/31163464.jpg?version=20230307063542.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Holi Party Mix 2023 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1141,7 +1141,7 @@ TWOPILOTS
 <time datetime="">2023.03.06</time>
 <span class="albumType">컴필레이션</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/311634/31163463.jpg?version=20230307005037.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311634/31163463.jpg?version=20230307063541.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Holi Chill Mix (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1155,7 +1155,7 @@ TWOPILOTS
 <time datetime="">2023.03.06</time>
 <span class="albumType">컴필레이션</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/311634/31163462.jpg?version=20230307003120.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311634/31163462.jpg?version=20230307063744.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Holi Romantic Party Mix 2023 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1169,7 +1169,7 @@ TWOPILOTS
 <time datetime="">2023.03.06</time>
 <span class="albumType">컴필레이션</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/311634/31163461.jpg?version=20230307013342.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311634/31163461.jpg?version=20230307063743.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Holi Dhamaal !! (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1183,7 +1183,7 @@ TWOPILOTS
 <time datetime="">2023.03.06</time>
 <span class="albumType">컴필레이션</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/311634/31163459.jpg?version=20230307003533.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311634/31163459.jpg?version=20230307063742.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Caída Libre (Track By Track Commentary) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1198,7 +1198,7 @@ TWOPILOTS
 <time datetime="">2023.03.06</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/311632/31163236.jpg?version=20230307002522.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311632/31163236.jpg?version=20230307063732.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Cascades (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1213,7 +1213,7 @@ TWOPILOTS
 <time datetime="">2023.03.06</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/311437/31143710.jpg?version=20230306000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311437/31143710.jpg?version=20230307063613.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Inside the Machine (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1228,7 +1228,7 @@ TWOPILOTS
 <time datetime="">2023.03.06</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/311414/31141461.jpg?version=20230306000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311414/31141461.jpg?version=20230307063751.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Facehugger (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1243,7 +1243,7 @@ TWOPILOTS
 <time datetime="">2023.03.06</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310906/31090640.jpg?version=20230306000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310906/31090640.jpg?version=20230307063607.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beautiful Piano Sonatas by Mozart (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1258,7 +1258,7 @@ TWOPILOTS
 <time datetime="">2023.03.06</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310759/31075990.jpg?version=20230306120030.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310759/31075990.jpg?version=20230307063924.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ⅱ (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1273,7 +1273,7 @@ TWOPILOTS
 <time datetime="">2023.03.06</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310246/31024681.jpg?version=20230306000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310246/31024681.jpg?version=20230307063619.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Boby (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1288,7 +1288,7 @@ TWOPILOTS
 <time datetime="">2023.03.06</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310244/31024438.jpg?version=20230306000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310244/31024438.jpg?version=20230307063631.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Oh Dear (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1303,7 +1303,7 @@ TWOPILOTS
 <time datetime="">2023.03.06</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/306607/30660771.jpg?version=20230306000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/306607/30660771.jpg?version=20230307063813.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Circle - The 1st Album (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1705,7 +1705,7 @@ Canzoni Per Bambini Ninna Nanna
 <time datetime="">2023.03.06</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/180599/18059996.jpg?version=20230306120030.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/180599/18059996.jpg?version=20230307064015.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lagu Piano (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1723,7 +1723,7 @@ Tidur Bayi Musik
 <time datetime="">2023.03.06</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/180599/18059966.jpg?version=20230306120030.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/180599/18059966.jpg?version=20230307064013.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dive (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1753,7 +1753,7 @@ Tidur Bayi Musik
 <time datetime="">2023.03.06</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/311662/31166285.jpg?version=20230307005332.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311662/31166285.jpg?version=20230307063530.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[I Can’t Get My Head Around You (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1783,7 +1783,7 @@ Tidur Bayi Musik
 <time datetime="">2023.03.06</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310905/31090575.jpg?version=20230306000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310905/31090575.jpg?version=20230307063639.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Russian Rullet (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1798,7 +1798,7 @@ Tidur Bayi Musik
 <time datetime="">2023.03.06</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310905/31090555.jpg?version=20230306000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310905/31090555.jpg?version=20230307063638.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Brown Noise Relief (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1813,7 +1813,7 @@ Tidur Bayi Musik
 <time datetime="">2023.03.06</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310853/31085349.jpg?version=20230306120030.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310853/31085349.jpg?version=20230307064006.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CHILI CHOCOLATE / ONE BITE / Lonely (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1828,7 +1828,7 @@ Tidur Bayi Musik
 <time datetime="">2023.03.06</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310786/31078622.jpg?version=20230306000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310786/31078622.jpg?version=20230307063715.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Latent Content (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1843,7 +1843,7 @@ Tidur Bayi Musik
 <time datetime="">2023.03.06</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310771/31077157.jpg?version=20230306120030.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310771/31077157.jpg?version=20230307063921.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[My Home (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1858,7 +1858,7 @@ Tidur Bayi Musik
 <time datetime="">2023.03.06</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310247/31024791.jpg?version=20230306000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310247/31024791.jpg?version=20230307063609.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[London (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1873,7 +1873,7 @@ Tidur Bayi Musik
 <time datetime="">2023.03.06</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310244/31024423.jpg?version=20230306000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310244/31024423.jpg?version=20230307063627.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pink Noise Somnia (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1888,7 +1888,7 @@ Tidur Bayi Musik
 <time datetime="">2023.03.06</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/309886/30988624.jpg?version=20230306120030.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309886/30988624.jpg?version=20230307064003.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Cricket White Noise (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1903,7 +1903,7 @@ Tidur Bayi Musik
 <time datetime="">2023.03.06</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/309886/30988617.jpg?version=20230306120030.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309886/30988617.jpg?version=20230307063955.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sweet Blossom (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1918,7 +1918,7 @@ Tidur Bayi Musik
 <time datetime="">2023.03.06</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/309697/30969786.jpg?version=20230306000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309697/30969786.jpg?version=20230307063514.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sleep Pattern (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1933,7 +1933,7 @@ Tidur Bayi Musik
 <time datetime="">2023.03.06</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/308888/30888896.jpg?version=20230306120030.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/308888/30888896.jpg?version=20230307063854.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1994 (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -1948,7 +1948,7 @@ Tidur Bayi Musik
 <time datetime="">2023.03.06</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/304687/30468704.jpg?version=20230306000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/304687/30468704.jpg?version=20230307063816.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Still On (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2599,7 +2599,7 @@ DLJ
 <time datetime="">2023.03.06</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40842/4084295.jpg?version=1678120080000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40842/4084295.jpg?version=1678138817000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그댄 어디쯤 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2614,7 +2614,7 @@ DLJ
 <time datetime="">2023.03.06</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/311614/31161476.jpg?version=1678118331000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311614/31161476.jpg?version=1678138801000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Faith, Love ! (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
