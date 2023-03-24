@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 16:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 17:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,7 +80,7 @@
 <time datetime="">2023.03.24</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205547/20554765.jpg?version=20230324180029.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205547/20554765.jpg?version=20230325013032.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[FACE]]></title>
@@ -184,7 +184,7 @@
 <time datetime="">2023.03.24</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40849/4084927.jpg?version=20230324180029.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40849/4084927.jpg?version=20230325012517.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eyes Closed]]></title>
@@ -379,7 +379,7 @@
 <time datetime="">2023.03.24</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205543/20554319.jpg?version=20230324120028.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205543/20554319.jpg?version=20230325012401.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[RAINBOW STATION Episode.9]]></title>
@@ -394,7 +394,7 @@
 <time datetime="">2023.03.24</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205547/20554756.jpg?version=20230324120028.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205547/20554756.jpg?version=20230325012210.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내가 그댈]]></title>
@@ -565,7 +565,7 @@ Veethoven
 <time datetime="">2023.03.24</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205540/20554094.jpg?version=20230324161725.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205540/20554094.jpg?version=20230325012251.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Where U At]]></title>
@@ -625,7 +625,7 @@ Veethoven
 <time datetime="">2023.03.24</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205529/20552997.jpg?version=20230324120028.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205529/20552997.jpg?version=20230325012210.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Content Creator 1st]]></title>
