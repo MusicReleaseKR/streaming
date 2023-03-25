@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 15:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 16:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,7 +80,7 @@
 <time datetime="">2023.03.25</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40848/4084888.jpg?version=20230325120512.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40848/4084888.jpg?version=20230326002750.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nevertheless (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -157,7 +157,7 @@
 <time datetime="">2023.03.25</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40849/4084921.jpg?version=20230325120025.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40849/4084921.jpg?version=20230326003816.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[답이 없는 이별 (주대건 x 감성 모음집) (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -496,7 +496,7 @@ BLUEHOUR(블루아워)
 <time datetime="">2023.03.24</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40849/4084914.jpg?version=20230325115046.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40849/4084914.jpg?version=20230326003911.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[F.Y.S.M. (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -525,7 +525,7 @@ BLUEHOUR(블루아워)
 <time datetime="">2023.03.24</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40849/4084927.jpg?version=20230325115017.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40849/4084927.jpg?version=20230326010452.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eyes Closed (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -540,7 +540,7 @@ BLUEHOUR(블루아워)
 <time datetime="">2023.03.24</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312656/31265633.jpg?version=20230325072017.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312656/31265633.jpg?version=20230326004617.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Paper Plane (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -2471,7 +2471,7 @@ LAREN
 <time datetime="">2023.03.25</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205549/20554944.jpg?version=1679734829000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205549/20554944.jpg?version=1679760610000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내게 전부인 너인데 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -2642,7 +2642,7 @@ BLUEHOUR(블루아워)
 <time datetime="">2023.03.25</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205546/20554623.jpg?version=1679713229000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205546/20554623.jpg?version=1679758696000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Siren (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3071,7 +3071,7 @@ Minchae keem
 <time datetime="">2023.03.25</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40849/4084921.jpg?version=1679713225000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40849/4084921.jpg?version=1679758696000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이겨내세요 (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
@@ -3101,7 +3101,7 @@ Minchae keem
 <time datetime="">2023.03.25</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40848/4084888.jpg?version=1679713512000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40848/4084888.jpg?version=1679758070000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<웹툰싱어> 정년이 OST (림킴 & 알리) (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
