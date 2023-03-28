@@ -4,9 +4,54 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 21:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 22:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Until The Dawn]]></title>
+            <link>https://music.bugs.co.kr/album/30935630?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30935630?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 28 Mar 2023 22:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20160867?wl_ref=list_ab_04" class="artistTitle" title="EDIBA" onclick="
+" target="_self">EDIBA</a>
+</p>
+<p>
+<time datetime="">2023.03.03</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309356/30935630.jpg?version=20230307142252.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weight Of The World]]></title>
+            <link>https://music.bugs.co.kr/album/30909069?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30909069?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 28 Mar 2023 22:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/8269404?wl_ref=list_ab_04" class="artistTitle" title="Freaky DJs" onclick="
+" target="_self">Freaky DJs</a>
+</p>
+<p>
+<time datetime="">2023.02.17</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309090/30909069.jpg?version=20230307142204.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Runaway]]></title>
+            <link>https://music.bugs.co.kr/album/30909054?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30909054?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 28 Mar 2023 22:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12177759?wl_ref=list_ab_04" class="artistTitle" title="Autodepth" onclick="
+" target="_self">Autodepth</a>
+</p>
+<p>
+<time datetime="">2023.02.10</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309090/30909054.jpg?version=20230307142203.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Feels Like]]></title>
             <link>https://music.bugs.co.kr/album/30907496?wl_ref=list_ab_03</link>
@@ -21,6 +66,24 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/309074/30907496.jpg?version=20230225072333.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No Games]]></title>
+            <link>https://music.bugs.co.kr/album/30867715?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/30867715?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 28 Mar 2023 22:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/11940940?wl_ref=list_ab_04" class="artistTitle" title="Slenderino">Slenderino</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Slenderino||Slenderino||11940940||OK\\nNiamh Sygrove||Niamh Sygrove||11071990||OK', ''); return false;">
+Slenderino
+</a> </p>
+<p>
+<time datetime="">2023.02.17</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/308677/30867715.jpg?version=20230307142124.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Guide In The Night]]></title>
@@ -83,7 +146,7 @@ Nightro
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312689/31268988.jpg?version=20230328103008.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312689/31268988.jpg?version=20230329063717.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Spiritually Filthy]]></title>
@@ -98,7 +161,7 @@ Nightro
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312689/31268950.jpg?version=20230329021516.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312689/31268950.jpg?version=20230329063604.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Returning To The Nature]]></title>
@@ -113,7 +176,7 @@ Nightro
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312689/31268945.jpg?version=20230329012621.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312689/31268945.jpg?version=20230329063601.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tra il bene e il male]]></title>
@@ -128,7 +191,7 @@ Nightro
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312689/31268941.jpg?version=20230329023409.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312689/31268941.jpg?version=20230329063558.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bohemian Raphosdy]]></title>
@@ -143,7 +206,7 @@ Nightro
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312686/31268637.jpg?version=20230328005848.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312686/31268637.jpg?version=20230329063631.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[638]]></title>
@@ -158,7 +221,7 @@ Nightro
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312663/31266396.jpg?version=20230328000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312663/31266396.jpg?version=20230329063655.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Point]]></title>
@@ -173,7 +236,7 @@ Nightro
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312655/31265573.jpg?version=20230328000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312655/31265573.jpg?version=20230329063721.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bach: Motets, BWV 225 - 231, Cantatas, BWV 50 & 118]]></title>
@@ -188,7 +251,7 @@ Nightro
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312486/31248669.jpg?version=20230328005729.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312486/31248669.jpg?version=20230329063621.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mozart: Piano Works, Vol. 7. Piano Sonatas, K. 533, 545 "Sonata facile", 570, 576 & 547a]]></title>
@@ -203,7 +266,7 @@ Nightro
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312486/31248613.jpg?version=20230328012448.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312486/31248613.jpg?version=20230329063723.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jazzy Cafe]]></title>
@@ -218,7 +281,7 @@ Nightro
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312433/31243347.jpg?version=20230328120035.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312433/31243347.jpg?version=20230329063954.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Your Opinion Doesn't Count Unless You're Doing the Work, Vol. 1: This Conversation Was Over Before It Began]]></title>
@@ -233,7 +296,7 @@ Nightro
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312433/31243311.jpg?version=20230328120035.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312433/31243311.jpg?version=20230329064030.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Laugh It Off]]></title>
@@ -248,7 +311,7 @@ Nightro
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312422/31242267.jpg?version=20230328000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312422/31242267.jpg?version=20230329063815.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Little Tough Guy]]></title>
@@ -263,7 +326,7 @@ Nightro
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312422/31242266.jpg?version=20230328000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312422/31242266.jpg?version=20230329063814.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Fast Company]]></title>
@@ -278,7 +341,7 @@ Nightro
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312422/31242265.jpg?version=20230328000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312422/31242265.jpg?version=20230329063814.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Psycho Mo]]></title>
@@ -293,7 +356,7 @@ Nightro
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312422/31242264.jpg?version=20230328000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312422/31242264.jpg?version=20230329063813.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mala Sangre]]></title>
@@ -308,7 +371,7 @@ Nightro
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312421/31242199.jpg?version=20230328100003.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312421/31242199.jpg?version=20230329063945.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Romantic Autumn]]></title>
@@ -323,7 +386,7 @@ Nightro
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312414/31241407.jpg?version=20230328000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312414/31241407.jpg?version=20230329063808.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Un passo avanti]]></title>
@@ -338,7 +401,7 @@ Nightro
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312413/31241366.jpg?version=20230328000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312413/31241366.jpg?version=20230329063757.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sweet Dance Moment]]></title>
@@ -353,7 +416,7 @@ Nightro
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312411/31241142.jpg?version=20230328000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312411/31241142.jpg?version=20230329063753.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[83]]></title>
@@ -371,7 +434,7 @@ Passport Rav
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312411/31241140.jpg?version=20230328000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312411/31241140.jpg?version=20230329063752.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Reno]]></title>
@@ -386,7 +449,7 @@ Passport Rav
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312370/31237076.jpg?version=20230328000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312370/31237076.jpg?version=20230329063807.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Abadon]]></title>
@@ -401,7 +464,7 @@ Passport Rav
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312369/31236971.jpg?version=20230328000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312369/31236971.jpg?version=20230329063751.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[lo-fi loaf]]></title>
@@ -416,7 +479,7 @@ Passport Rav
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/311659/31165947.jpg?version=20230328000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311659/31165947.jpg?version=20230329063541.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Piano Music for Dogs: Chopin Nocturnes & Mazurkas]]></title>
@@ -431,7 +494,7 @@ Passport Rav
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/311457/31145777.jpg?version=20230328120035.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/311457/31145777.jpg?version=20230329064044.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[All Your Music Are Belong To Us]]></title>
@@ -446,7 +509,7 @@ Passport Rav
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310789/31078923.jpg?version=20230328000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310789/31078923.jpg?version=20230329063703.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Diario de las Olas]]></title>
@@ -461,7 +524,7 @@ Passport Rav
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/310245/31024579.jpg?version=20230328000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/310245/31024579.jpg?version=20230329063650.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Electronic Mozart: Trios]]></title>
@@ -476,7 +539,7 @@ Passport Rav
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/309844/30984480.jpg?version=20230328120035.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/309844/30984480.jpg?version=20230329063951.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beethoven Sonatas]]></title>
@@ -911,7 +974,7 @@ Passport Rav
 <time datetime="">2023.03.28</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40849/4084967.jpg?version=20230329035021.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40849/4084967.jpg?version=20230329064120.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[夕凪LOOP(Yunagi LOOP)]]></title>
@@ -956,7 +1019,7 @@ Passport Rav
 <time datetime="">2023.03.28</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312692/31269290.jpg?version=20230328120035.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312692/31269290.jpg?version=20230329064055.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Let Me Down]]></title>
@@ -971,7 +1034,7 @@ Passport Rav
 <time datetime="">2023.03.28</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312689/31268991.jpg?version=20230329031554.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312689/31268991.jpg?version=20230329063719.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Quero Mais (Ao Vivo)]]></title>
@@ -986,7 +1049,7 @@ Passport Rav
 <time datetime="">2023.03.28</time>
 <span class="albumType">라이브</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312689/31268957.jpg?version=20230329035557.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312689/31268957.jpg?version=20230329063609.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Rappers 2: ROLL CALL]]></title>
@@ -1000,67 +1063,7 @@ Passport Rav
 <time datetime="">2023.03.28</time>
 <span class="albumType">컴필레이션</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312689/31268954.jpg?version=20230329032923.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A night in the forest]]></title>
-            <link>https://music.bugs.co.kr/album/31268947?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31268947?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 28 Mar 2023 04:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13109243?wl_ref=list_ab_04" class="artistTitle" title="Lofi Universe" onclick="
-" target="_self">Lofi Universe</a>
-</p>
-<p>
-<time datetime="">2023.03.28</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312689/31268947.jpg?version=20230329031457.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fascinated Today]]></title>
-            <link>https://music.bugs.co.kr/album/31268940?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31268940?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 28 Mar 2023 04:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11963472?wl_ref=list_ab_04" class="artistTitle" title="Wang OK" onclick="
-" target="_self">Wang OK</a>
-</p>
-<p>
-<time datetime="">2023.03.28</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312689/31268940.jpg?version=20230329003435.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Travel To The Nature Peace]]></title>
-            <link>https://music.bugs.co.kr/album/31268937?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31268937?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 28 Mar 2023 04:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13109243?wl_ref=list_ab_04" class="artistTitle" title="Lofi Universe" onclick="
-" target="_self">Lofi Universe</a>
-</p>
-<p>
-<time datetime="">2023.03.28</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312689/31268937.jpg?version=20230329033208.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[existential aftercare]]></title>
-            <link>https://music.bugs.co.kr/album/31266457?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/31266457?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 28 Mar 2023 04:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13213344?wl_ref=list_ab_04" class="artistTitle" title="exorcized" onclick="
-" target="_self">exorcized</a>
-</p>
-<p>
-<time datetime="">2023.03.28</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/312664/31266457.jpg?version=20230328000024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/312689/31268954.jpg?version=20230329063607.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
