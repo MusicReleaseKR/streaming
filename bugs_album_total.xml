@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 17:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 18:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -98,7 +98,7 @@ Kristin Henneberg
 <time datetime="">2023.05.10</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316608/31660825.jpg?version=20230510120032.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316608/31660825.jpg?version=20230511022904.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[How To Let Go]]></title>
@@ -128,7 +128,7 @@ Kristin Henneberg
 <time datetime="">2023.05.10</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316599/31659929.jpg?version=20230510024348.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316599/31659929.jpg?version=20230511021604.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[XinU EP #02]]></title>
@@ -143,7 +143,7 @@ Kristin Henneberg
 <time datetime="">2023.05.10</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316599/31659924.jpg?version=20230510011144.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316599/31659924.jpg?version=20230511025312.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mes amis les animaux]]></title>
@@ -188,7 +188,7 @@ Kristin Henneberg
 <time datetime="">2023.05.10</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316599/31659905.jpg?version=20230510013413.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316599/31659905.jpg?version=20230511031428.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Modernity]]></title>
@@ -1052,7 +1052,7 @@ Altered Perspectives
 <time datetime="">2023.05.10</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205643/20564397.jpg?version=20230510120032.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205643/20564397.jpg?version=20230511023033.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Adulescent Fluorescent]]></title>
