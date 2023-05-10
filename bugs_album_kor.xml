@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 16:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 17:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -170,7 +170,7 @@
 <time datetime="">2023.05.10</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205626/20562660.jpg?version=1683687632000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205626/20562660.jpg?version=1683737706000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AP Alchemy : Side P]]></title>
@@ -185,7 +185,7 @@
 <time datetime="">2023.05.10</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40863/4086344.jpg?version=1683709232000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40863/4086344.jpg?version=1683736519000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[YOUNHA Studio Live Album 'MINDSET']]></title>
@@ -260,7 +260,7 @@
 <time datetime="">2023.05.10</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205648/20564812.jpg?version=1683687632000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205648/20564812.jpg?version=1683737351000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[달에서 온 편지]]></title>
@@ -503,7 +503,7 @@ Young kl3in
 <time datetime="">2023.05.10</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205643/20564311.jpg?version=1683687632000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205643/20564311.jpg?version=1683736866000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CELEBRITIES]]></title>
