@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 16:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 17:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -833,7 +833,7 @@
 <time datetime="">2023.05.12</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205654/20565499.jpg?version=1683860429000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205654/20565499.jpg?version=1683909407000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다음세대 찬양만들기]]></title>
@@ -893,7 +893,7 @@
 <time datetime="">2023.05.12</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205654/20565408.jpg?version=1683860429000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205654/20565408.jpg?version=1683909853000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그때를 기다려]]></title>
@@ -986,7 +986,7 @@ Cosh
 <time datetime="">2023.05.12</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205653/20565342.jpg?version=1683882032000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205653/20565342.jpg?version=1683910565000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[B2gether]]></title>
@@ -1016,7 +1016,7 @@ Cosh
 <time datetime="">2023.05.12</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205653/20565329.jpg?version=1683860429000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205653/20565329.jpg?version=1683910514000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가여운 운명]]></title>
@@ -1046,7 +1046,7 @@ Cosh
 <time datetime="">2023.05.12</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205653/20565324.jpg?version=1683860429000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205653/20565324.jpg?version=1683910751000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Business]]></title>
