@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 13:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 15:31:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,7 +35,7 @@
 <time datetime="">2023.05.15</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205657/20565759.jpg?version=1684119636000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205657/20565759.jpg?version=1684164209000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[믿음으로 빛나요]]></title>
