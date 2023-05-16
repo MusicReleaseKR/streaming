@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 15:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 17:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
 <time datetime="">2023.05.17</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316623/31662384.jpg?version=20230517000023.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316623/31662384.jpg?version=20230517012113.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MELTED PLASTIC]]></title>
@@ -32,10 +32,10 @@
 " target="_self">Connor Musarra</a>
 </p>
 <p>
-<time datetime="">2022.02.04</time>
+<time datetime="">2023.05.17</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/170818/17081890.jpg?version=20230111134053.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/170818/17081890.jpg?version=20230517004036.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sleep Fruits Session, Vol. 3]]></title>
@@ -53,7 +53,7 @@ Sleep Fruits Music
 <time datetime="">2023.05.16</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316958/31695870.jpg?version=20230516072004.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316958/31695870.jpg?version=20230517011158.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Say Goodbye To Past]]></title>
@@ -68,7 +68,7 @@ Sleep Fruits Music
 <time datetime="">2023.05.16</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316953/31695336.jpg?version=20230516003425.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316953/31695336.jpg?version=20230517012650.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Purple Privilege]]></title>
@@ -854,7 +854,7 @@ Jazz Music DEA Channel
 <time datetime="">2023.05.16</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/189542/18954274.jpg?version=20230516233106.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/189542/18954274.jpg?version=20230517002903.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HORNY SINGLES IN YOUR AREA]]></title>
@@ -884,7 +884,7 @@ Jazz Music DEA Channel
 <time datetime="">2023.05.16</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40865/4086565.jpg?version=20230516120032.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40865/4086565.jpg?version=20230517005633.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[You got shot 44]]></title>
@@ -932,7 +932,7 @@ Analaga
 <time datetime="">2023.05.16</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316912/31691210.jpg?version=20230516121003.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316912/31691210.jpg?version=20230517012543.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Campeón]]></title>
@@ -1007,7 +1007,7 @@ Analaga
 <time datetime="">2023.05.16</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/316679/31667982.jpg?version=20230516120025.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/316679/31667982.jpg?version=20230517004144.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[My Turn]]></title>
