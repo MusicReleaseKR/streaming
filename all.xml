@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 04:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 06:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,7 +190,7 @@ Hoody (후디)
 <time datetime="">2023.05.01</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/317171/31717193.jpg?version=20230601120025.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/317171/31717193.jpg?version=20230601150647.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Heartbreaking Sorrow (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1435,7 +1435,7 @@ Yelsha
 <time datetime="">2023.06.01</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/317316/31731675.jpg?version=20230601000023.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/317316/31731675.jpg?version=20230601151401.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ta Logia Tis Agapis (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2245,7 +2245,7 @@ Mxndxz
             <title><![CDATA[Dusk's Harmony (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/31761822?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/31761822?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 01 Jun 2023 04:20:14 GMT</pubDate>
+            <pubDate>Thu, 01 Jun 2023 04:19:56 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20092643?wl_ref=list_ab_04" class="artistTitle" title="YK" onclick="
 " target="_self">YK</a>
@@ -2260,7 +2260,7 @@ Mxndxz
             <title><![CDATA[Ethereal Reverie (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/31761821?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/31761821?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 01 Jun 2023 04:20:14 GMT</pubDate>
+            <pubDate>Thu, 01 Jun 2023 04:19:56 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20087646?wl_ref=list_ab_04" class="artistTitle" title="anonatsue" onclick="
 " target="_self">anonatsue</a>
