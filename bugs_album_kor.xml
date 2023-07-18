@@ -4,9 +4,24 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 03:01:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 03:29:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PARADISE]]></title>
+            <link>https://music.bugs.co.kr/album/20573015?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20573015?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 18 Jul 2023 03:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80203568?wl_ref=list_ab_04" class="artistTitle" title="김진환" onclick="
+" target="_self">김진환</a>
+</p>
+<p>
+<time datetime="">2023.06.21</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205730/20573015.jpg?version=1687448780000" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[717]]></title>
             <link>https://music.bugs.co.kr/album/20578603?wl_ref=list_ab_03</link>
@@ -503,7 +518,7 @@
 <time datetime="">2023.07.17</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205789/20578998.jpg?version=1689609518000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205789/20578998.jpg?version=1689649492000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[10분의 1]]></title>
@@ -1050,24 +1065,6 @@ sunday museum
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/205783/20578318.jpg?version=1689562831000" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뚝뚝뚝]]></title>
-            <link>https://music.bugs.co.kr/album/20578317?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20578317?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 17 Jul 2023 10:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/20109812?wl_ref=list_ab_04" class="artistTitle" title="안재우">안재우</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '안재우||안재우||20109812||OK\\n권디엘||권디엘(Iamdl)||20043449||OK', ''); return false;">
-안재우
-</a> </p>
-<p>
-<time datetime="">2023.07.17</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205783/20578317.jpg?version=1689584422000" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
