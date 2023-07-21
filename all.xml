@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 10:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 11:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1925,7 +1925,7 @@ Nazia Hassan
 <time datetime="">2023.07.21</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/323261/32326162.jpg?version=20230721103129.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/323261/32326162.jpg?version=20230721193913.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mickey Mouse (Music from the Disney Mickey Mouse Shorts) (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2018,7 +2018,7 @@ Mickey Mouse(미키마우스)
 <time datetime="">2023.07.21</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/323260/32326043.jpg?version=20230721011653.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/323260/32326043.jpg?version=20230721192004.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TRAPEN TILL RADION (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2852,7 +2852,7 @@ Mickey Mouse(미키마우스)
             <title><![CDATA[Another World (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20580194?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20580194?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 21 Jul 2023 10:16:44 GMT</pubDate>
+            <pubDate>Fri, 21 Jul 2023 10:16:05 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20150125?wl_ref=list_ab_04" class="artistTitle" title="이세계아이돌" onclick="
 " target="_self">이세계아이돌</a>
