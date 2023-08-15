@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 15:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 16:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -170,7 +170,7 @@
 <time datetime="">2023.08.15</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205842/20584258.jpg?version=20230815120008.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205842/20584258.jpg?version=20230816004702.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그때의 우리가 그립다]]></title>
@@ -365,7 +365,7 @@
 <time datetime="">2023.08.15</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/205841/20584191.jpg?version=20230815120022.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/205841/20584191.jpg?version=20230816004030.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대한의 아침]]></title>
@@ -410,7 +410,7 @@
 <time datetime="">2023.08.11</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/327796/32779668.jpg?version=20230815013244.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/327796/32779668.jpg?version=20230816003311.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dancing In The Dark]]></title>
