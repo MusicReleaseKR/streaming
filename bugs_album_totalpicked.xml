@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 01:01:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 01:53:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,7 +83,7 @@ Eian
 <time datetime="">2023.09.04</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40904/4090455.jpg?version=20230904120021.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40904/4090455.jpg?version=20230905100044.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[문(門)]]></title>
@@ -378,8 +378,8 @@ Yonko (욘코)
             <guid>https://music.bugs.co.kr/album/20588385?wl_ref=list_ab_03</guid>
             <pubDate>Mon, 04 Sep 2023 09:15:44 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20150692?wl_ref=list_ab_04" class="artistTitle" title="오엘비 (OLB)" onclick="
-" target="_self">오엘비 (OLB)</a>
+<a href="https://music.bugs.co.kr/artist/20150692?wl_ref=list_ab_04" class="artistTitle" title="OLB" onclick="
+" target="_self">OLB</a>
 </p>
 <p>
 <time datetime="">2023.09.04</time>
