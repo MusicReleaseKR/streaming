@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 19:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 20:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,7 +110,7 @@
 <time datetime="">2023.11.29</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206085/20608544.jpg?version=20231129180938.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206085/20608544.jpg?version=20231130041252.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[와줘..]]></title>
@@ -155,7 +155,7 @@
 <time datetime="">2023.11.29</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206087/20608749.jpg?version=20231129180029.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206087/20608749.jpg?version=20231130041254.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[곁 (웹툰 '막내황녀님' X 설아 (우주소녀))]]></title>
@@ -613,7 +613,7 @@ PERC%NT
 <time datetime="">2023.11.29</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206082/20608204.jpg?version=20231129120023.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206082/20608204.jpg?version=20231130041335.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Holy Mountain]]></title>
