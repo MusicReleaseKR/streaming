@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 16:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 17:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,7 +38,7 @@
 <time datetime="">2023.12.08</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206106/20610611.jpg?version=20231208180023.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206106/20610611.jpg?version=20231209012037.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윈터 of aespa X 마이데몬]]></title>
@@ -501,7 +501,7 @@
 <time datetime="">2023.12.08</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206100/20610075.jpg?version=20231208120017.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206100/20610075.jpg?version=20231209012037.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내가 듣고 싶은 노래 (The Songs That I Want To Listen To)]]></title>
