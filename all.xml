@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 04:46:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 05:52:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,7 +68,7 @@ fourfive
 <time datetime="">2024.03.04</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/40967/4096729.jpg?version=20240304120001.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/40967/4096729.jpg?version=20240304142330.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BY CHANCE PROJECT (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -312,7 +312,7 @@ Wuno
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206272/20627259.jpg?version=20240304120001.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Promises of Five (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
+            <title><![CDATA[Promises of five (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
             <link>https://music.bugs.co.kr/album/20627024?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20627024?wl_ref=list_ab_03</guid>
             <pubDate>Mon, 04 Mar 2024 03:49:40 GMT</pubDate>
@@ -327,7 +327,7 @@ Vando
 <time datetime="">2024.03.04</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206270/20627024.jpg?version=20240304120001.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206270/20627024.jpg?version=20240304143537.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Shoot&More (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -2698,7 +2698,7 @@ Anthon Jean-Paul
             <enclosure url="https://image.bugsm.co.kr/album/images/170/206270/20627070.jpg?version=1709521213000" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Promises of Five (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
+            <title><![CDATA[Promises of five (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
             <link>https://music.bugs.co.kr/album/20627024?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20627024?wl_ref=list_ab_03</guid>
             <pubDate>Mon, 04 Mar 2024 03:49:40 GMT</pubDate>
@@ -2713,7 +2713,7 @@ Vando
 <time datetime="">2024.03.04</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206270/20627024.jpg?version=1709521201000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206270/20627024.jpg?version=1709530537000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JUGWON KABARETT-KR KIM (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
