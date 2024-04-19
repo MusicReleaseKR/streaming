@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Apr 2024 17:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 18:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -170,7 +170,7 @@
 <time datetime="">2024.04.19</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41002/4100270.jpg?version=20240419180002.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41002/4100270.jpg?version=20240420021435.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[nevertheless]]></title>
@@ -278,7 +278,7 @@
 <time datetime="">2024.04.19</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206375/20637571.jpg?version=20240419120021.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206375/20637571.jpg?version=20240420022910.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Monthly Flower Project #4]]></title>
@@ -701,7 +701,7 @@ Nas
 <time datetime="">2024.04.19</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/347241/34724136.jpg?version=20240419154124.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/347241/34724136.jpg?version=20240420021416.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beast Mode (Knock You Out)]]></title>
