@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 16:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 17:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -448,7 +448,7 @@ fourfive
 <time datetime="">2024.08.15</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41054/4105478.jpg?version=20240816114732.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41054/4105478.jpg?version=20240817013006.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JUSTRAP]]></title>
@@ -508,7 +508,7 @@ fourfive
 <time datetime="">2024.08.16</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41055/4105523.jpg?version=20240816134409.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41055/4105523.jpg?version=20240817012334.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑은 쉬운말 이별은 나쁜말]]></title>
@@ -568,7 +568,7 @@ fourfive
 <time datetime="">2024.08.16</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206626/20662633.jpg?version=20240816120010.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206626/20662633.jpg?version=20240817012404.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아무튼 좋아]]></title>
