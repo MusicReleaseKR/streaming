@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Sep 2024 16:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2024 17:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
 <time datetime="">2024.09.03</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206567/20656741.jpg?version=20240903182149.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206567/20656741.jpg?version=20240904012452.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그냥 좀 걸어보자]]></title>
@@ -50,7 +50,7 @@
 <time datetime="">2024.09.03</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41066/4106616.jpg?version=20240903180008.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41066/4106616.jpg?version=20240904013424.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상승]]></title>
@@ -266,7 +266,7 @@ BINUU
 <time datetime="">2024.09.03</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206683/20668368.jpg?version=20240903120000.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206683/20668368.jpg?version=20240904012513.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MAGIC RAIN]]></title>
@@ -638,7 +638,7 @@ Snakehips(스네이크힙스)
 <time datetime="">2024.08.30</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/357334/35733470.jpg?version=20240903010006.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/357334/35733470.jpg?version=20240904012409.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Anike]]></title>
@@ -746,7 +746,7 @@ MCN2
 <time datetime="">2024.09.02</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41065/4106580.jpg?version=20240903154213.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41065/4106580.jpg?version=20240904012312.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손해 보기 싫어서 OST Part 2]]></title>
@@ -761,7 +761,7 @@ MCN2
 <time datetime="">2024.09.02</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206679/20667981.jpg?version=20240903120014.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206679/20667981.jpg?version=20240904013616.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘도 떠나간 너]]></title>
@@ -806,7 +806,7 @@ MCN2
 <time datetime="">2024.09.02</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206676/20667607.jpg?version=20240903114751.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206676/20667607.jpg?version=20240904012449.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Anxious (Feat. The Deep)]]></title>
