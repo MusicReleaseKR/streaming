@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 16:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 17:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,7 +50,7 @@
 <time datetime="">2024.09.12</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206706/20670604.jpg?version=20240912180027.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206706/20670604.jpg?version=20240913012251.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Moon Walk (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -1648,7 +1648,7 @@ Zeskullz
 <time datetime="">2024.09.12</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/357861/35786106.jpg?version=20240913004623.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/357861/35786106.jpg?version=20240913021057.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Golden Days (벅스 ─ 최신 음악 ─ 앨범 ─ 전체)]]></title>
@@ -2233,7 +2233,7 @@ Zeskullz
 <time datetime="">2024.09.12</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206706/20670604.jpg?version=1726131627000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206706/20670604.jpg?version=1726158171000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리들의 씬스틸러 : Fun & Fun (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
