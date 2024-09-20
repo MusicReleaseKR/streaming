@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 01:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 02:47:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
 <time datetime="">2024.09.19</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41071/4107165.jpg?version=20240920031851.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41071/4107165.jpg?version=20240920103039.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GGUM (벅스 ─ 최신 음악 ─ 앨범 ─ 주목)]]></title>
@@ -2677,7 +2677,7 @@ Sweep J(스윕제이)
 <time datetime="">2024.09.19</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41071/4107165.jpg?version=1726769931000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41071/4107165.jpg?version=1726795839000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Shit, this world (벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국)]]></title>
