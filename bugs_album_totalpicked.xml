@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Sep 2024 16:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 17:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,7 +80,7 @@
 <time datetime="">2024.09.30</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41079/4107962.jpg?version=20240930180025.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41079/4107962.jpg?version=20241001012556.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[약속]]></title>
@@ -965,7 +965,7 @@ BLEUR(블루어)
 <time datetime="">2024.09.29</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206719/20671946.jpg?version=20240930161142.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206719/20671946.jpg?version=20241001014244.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엄마친구아들 OST Part.6]]></title>
