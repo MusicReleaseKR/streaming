@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 01:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 02:51:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -65,7 +65,7 @@
 <time datetime="">2024.10.03</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41080/4108067.jpg?version=20241003180026.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41080/4108067.jpg?version=20241004102505.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SUPERCHARGED]]></title>
@@ -278,7 +278,7 @@ Yeong Die
 <time datetime="">2024.10.03</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/358304/35830496.jpg?version=20241003120025.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/358304/35830496.jpg?version=20241004114047.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마피아 보스가 나에게 집착한다 OST Part.22]]></title>
@@ -773,7 +773,7 @@ Pierse
 <time datetime="">2024.10.02</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41080/4108012.jpg?version=20241002180025.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41080/4108012.jpg?version=20241004102506.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[step by together : with U - 이제 우리 함께 가자]]></title>
