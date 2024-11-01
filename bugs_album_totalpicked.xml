@@ -4,9 +4,54 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 03:36:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 04:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DRIP]]></title>
+            <link>https://music.bugs.co.kr/album/4109194?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4109194?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 01 Nov 2024 04:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20200163?wl_ref=list_ab_04" class="artistTitle" title="BABYMONSTER" onclick="
+" target="_self">BABYMONSTER</a>
+</p>
+<p>
+<time datetime="">2024.11.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41091/4109194.jpg?version=20241101130502.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kep1er The 6th Mini Album 〈TIPI-TAP〉]]></title>
+            <link>https://music.bugs.co.kr/album/20681339?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20681339?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 01 Nov 2024 04:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20151053?wl_ref=list_ab_04" class="artistTitle" title="Kep1er (케플러)" onclick="
+" target="_self">Kep1er (케플러)</a>
+</p>
+<p>
+<time datetime="">2024.11.01</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206813/20681339.jpg?version=20241101130004.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eternal Atake 2]]></title>
+            <link>https://music.bugs.co.kr/album/36202508?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36202508?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 01 Nov 2024 04:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80212732?wl_ref=list_ab_04" class="artistTitle" title="Lil Uzi Vert(릴 우지 버트)" onclick="
+" target="_self">Lil Uzi Vert(릴 우지 버트)</a>
+</p>
+<p>
+<time datetime="">2024.11.01</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/362025/36202508.jpg?version=20241101130025.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Music Collaboration-높이 올라갈 시간이야]]></title>
             <link>https://music.bugs.co.kr/album/4109239?wl_ref=list_ab_03</link>
@@ -41,21 +86,6 @@ Snoop Dogg(스눕 독)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361999/36199944.jpg?version=20241101104450.0" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Made in Korea: The K-Pop Experience (Original TV Soundtrack)]]></title>
-            <link>https://music.bugs.co.kr/album/4109245?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/4109245?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 31 Oct 2024 15:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13952269?wl_ref=list_ab_04" class="artistTitle" title="메이드인코리아" onclick="
-" target="_self">메이드인코리아</a>
-</p>
-<p>
-<time datetime="">2024.11.01</time>
-<span class="albumType">OST</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41092/4109245.jpg?version=20241101015201.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[신사동 그 소주집에서]]></title>
             <link>https://music.bugs.co.kr/album/4109181?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4109181?wl_ref=list_ab_03</guid>
@@ -69,6 +99,21 @@ Snoop Dogg(스눕 독)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41091/4109181.jpg?version=20241101014235.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Made in Korea: The K-Pop Experience (Original TV Soundtrack)]]></title>
+            <link>https://music.bugs.co.kr/album/4109245?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4109245?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 31 Oct 2024 15:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13952269?wl_ref=list_ab_04" class="artistTitle" title="메이드인코리아" onclick="
+" target="_self">메이드인코리아</a>
+</p>
+<p>
+<time datetime="">2024.11.01</time>
+<span class="albumType">OST</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41092/4109245.jpg?version=20241101015201.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대학가요제 연합미션 베스트 PART2]]></title>
@@ -149,6 +194,21 @@ Snoop Dogg(스눕 독)
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41092/4109253.jpg?version=20241101120000.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LOVE, MONEY, FAME (feat. DJ Khaled) (Timbaland Remix)]]></title>
+            <link>https://music.bugs.co.kr/album/4109285?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4109285?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 01 Nov 2024 04:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/80232283?wl_ref=list_ab_04" class="artistTitle" title="세븐틴(SEVENTEEN)" onclick="
+" target="_self">세븐틴(SEVENTEEN)</a>
+</p>
+<p>
+<time datetime="">2024.11.01</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41092/4109285.jpg?version=20241101130025.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이 밤]]></title>
@@ -745,7 +805,7 @@ YOUNITE
 <time datetime="">2024.10.31</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206808/20680821.jpg?version=20241031180024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206808/20680821.jpg?version=20241101130437.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[São Paulo]]></title>
@@ -1021,69 +1081,6 @@ The Weeknd(위켄드)
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41092/4109225.jpg?version=20241031120025.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[INTL. (GIE2024 공식 챌린지송)]]></title>
-            <link>https://music.bugs.co.kr/album/20680393?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20680393?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 31 Oct 2024 03:27:43 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/80382135?wl_ref=list_ab_04" class="artistTitle" title="손유지">손유지</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '손유지||손유지||80382135||OK\\nJASON||JASON||20182268||OK', ''); return false;">
-손유지
-</a> </p>
-<p>
-<time datetime="">2024.10.31</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206803/20680393.jpg?version=20241031120025.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 웹툰 하이클래스 OST Part. 1]]></title>
-            <link>https://music.bugs.co.kr/album/20679338?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20679338?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 31 Oct 2024 03:27:43 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20076310?wl_ref=list_ab_04" class="artistTitle" title="유명한아이" onclick="
-" target="_self">유명한아이</a>
-</p>
-<p>
-<time datetime="">2024.10.31</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206793/20679338.jpg?version=20241031120025.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동경]]></title>
-            <link>https://music.bugs.co.kr/album/20681372?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20681372?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 31 Oct 2024 03:27:43 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20192123?wl_ref=list_ab_04" class="artistTitle" title="Night of Lifetime" onclick="
-" target="_self">Night of Lifetime</a>
-</p>
-<p>
-<time datetime="">2024.10.31</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206813/20681372.jpg?version=20241031120025.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하트 (PINTABLE)]]></title>
-            <link>https://music.bugs.co.kr/album/20681179?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20681179?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 31 Oct 2024 03:27:43 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20089424?wl_ref=list_ab_04" class="artistTitle" title="언" onclick="
-" target="_self">언</a>
-</p>
-<p>
-<time datetime="">2024.10.31</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206811/20681179.jpg?version=20241031120013.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
