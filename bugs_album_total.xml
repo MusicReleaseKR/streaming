@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 02:58:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 03:33:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -51,6 +51,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/363766/36376635.jpg?version=20241122000027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Véronique fait un infarctus]]></title>
+            <link>https://music.bugs.co.kr/album/36375201?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36375201?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Nov 2024 03:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13799169?wl_ref=list_ab_04" class="artistTitle" title="CHATON SAUVAGE" onclick="
+" target="_self">CHATON SAUVAGE</a>
+</p>
+<p>
+<time datetime="">2024.11.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/363752/36375201.jpg?version=20241122120036.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Guell OO Freestyle]]></title>
@@ -134,6 +149,51 @@ Djy Biza
             <enclosure url="https://image.bugsm.co.kr/album/images/170/361797/36179721.jpg?version=20241122000027.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Øyvind Beinlaus]]></title>
+            <link>https://music.bugs.co.kr/album/36140535?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36140535?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Nov 2024 03:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/12597241?wl_ref=list_ab_04" class="artistTitle" title="VanHeiland" onclick="
+" target="_self">VanHeiland</a>
+</p>
+<p>
+<time datetime="">2024.11.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/361405/36140535.jpg?version=20241122120036.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Maybe Yes or No]]></title>
+            <link>https://music.bugs.co.kr/album/36118242?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36118242?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Nov 2024 03:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11051264?wl_ref=list_ab_04" class="artistTitle" title="Yudha Bagus" onclick="
+" target="_self">Yudha Bagus</a>
+</p>
+<p>
+<time datetime="">2024.11.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/361182/36118242.jpg?version=20241122120036.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Electric-Powered Oasis]]></title>
+            <link>https://music.bugs.co.kr/album/36042506?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36042506?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Nov 2024 03:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/11325241?wl_ref=list_ab_04" class="artistTitle" title="Charles C." onclick="
+" target="_self">Charles C.</a>
+</p>
+<p>
+<time datetime="">2024.11.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/360425/36042506.jpg?version=20241122120036.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Siren A Wail]]></title>
             <link>https://music.bugs.co.kr/album/35834070?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/35834070?wl_ref=list_ab_03</guid>
@@ -168,6 +228,21 @@ Cricket
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/355742/35574296.jpg?version=20241122000027.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[tishnagi]]></title>
+            <link>https://music.bugs.co.kr/album/34889916?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/34889916?wl_ref=list_ab_03</guid>
+            <pubDate>Fri, 22 Nov 2024 03:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13219722?wl_ref=list_ab_04" class="artistTitle" title="jeevana." onclick="
+" target="_self">jeevana.</a>
+</p>
+<p>
+<time datetime="">2024.11.22</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/348899/34889916.jpg?version=20241122120036.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kindinevo]]></title>
@@ -1011,81 +1086,6 @@ Benjamin Koppel
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/362041/36204141.jpg?version=20241121120032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[今度夢の中で逢えたら]]></title>
-            <link>https://music.bugs.co.kr/album/36204113?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36204113?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 21 Nov 2024 04:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13911771?wl_ref=list_ab_04" class="artistTitle" title="SideBurnz" onclick="
-" target="_self">SideBurnz</a>
-</p>
-<p>
-<time datetime="">2024.11.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/362041/36204113.jpg?version=20241121120032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[White Noise]]></title>
-            <link>https://music.bugs.co.kr/album/36204106?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36204106?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 21 Nov 2024 04:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13911767?wl_ref=list_ab_04" class="artistTitle" title="Shake-Onigiry" onclick="
-" target="_self">Shake-Onigiry</a>
-</p>
-<p>
-<time datetime="">2024.11.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/362041/36204106.jpg?version=20241121120032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I'm doing the worst I've ever done! (Deluxe Edition)]]></title>
-            <link>https://music.bugs.co.kr/album/36197740?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36197740?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 21 Nov 2024 04:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12983494?wl_ref=list_ab_04" class="artistTitle" title="Ryle Style" onclick="
-" target="_self">Ryle Style</a>
-</p>
-<p>
-<time datetime="">2024.11.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361977/36197740.jpg?version=20241121120032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[cartas que no te envié]]></title>
-            <link>https://music.bugs.co.kr/album/36197673?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36197673?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 21 Nov 2024 04:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80262880?wl_ref=list_ab_04" class="artistTitle" title="Villa" onclick="
-" target="_self">Villa</a>
-</p>
-<p>
-<time datetime="">2024.11.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361976/36197673.jpg?version=20241121120032.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[All Roads Lead To Pretty]]></title>
-            <link>https://music.bugs.co.kr/album/36192511?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36192511?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 21 Nov 2024 04:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80341025?wl_ref=list_ab_04" class="artistTitle" title="Paper Idol" onclick="
-" target="_self">Paper Idol</a>
-</p>
-<p>
-<time datetime="">2024.11.21</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/361925/36192511.jpg?version=20241121000031.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
