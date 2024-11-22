@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 16:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 17:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -65,7 +65,7 @@
 <time datetime="">2024.11.22</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206868/20686831.jpg?version=20241122180024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206868/20686831.jpg?version=20241123013903.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HOME SWEET HOME (feat. 태양, 대성)]]></title>
@@ -194,16 +194,16 @@
             <pubDate>Fri, 22 Nov 2024 03:33:11 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13984526?wl_ref=list_ab_04" class="artistTitle" title="Wicked Movie Cast">Wicked Movie Cast</a>
+<a href="https://music.bugs.co.kr/artist/13985086?wl_ref=list_ab_04" class="artistTitle" title="Wicked Movie Cast">Wicked Movie Cast</a>
 <!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Wicked Movie Cast||Wicked Movie Cast||13984526||OK\\nCynthia Erivo||Cynthia Erivo(신디아 에리보)||80210788||OK\\nAriana Grande||Ariana Grande(아리아나 그란데)||80117591||OK', ''); return false;">
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Wicked Movie Cast||Wicked Movie Cast||13985086||OK\\nCynthia Erivo||Cynthia Erivo(신디아 에리보)||80210788||OK\\nAriana Grande||Ariana Grande(아리아나 그란데)||80117591||OK', ''); return false;">
 Wicked Movie Cast
 </a> </p>
 <p>
 <time datetime="">2024.11.22</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/364301/36430156.jpg?version=20241122113623.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/364301/36430156.jpg?version=20241123012752.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[On My Mind]]></title>
@@ -218,7 +218,7 @@ Wicked Movie Cast
 <time datetime="">2024.11.22</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206863/20686369.jpg?version=20241122120023.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206863/20686369.jpg?version=20241123014140.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새벽별]]></title>
@@ -355,7 +355,7 @@ Arcane
 <time datetime="">2024.11.22</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206865/20686539.jpg?version=20241122135002.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206865/20686539.jpg?version=20241123012658.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Prequel]]></title>
@@ -631,7 +631,7 @@ Disney
 <time datetime="">2024.11.22</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/364245/36424558.jpg?version=20241122152656.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/364245/36424558.jpg?version=20241123012951.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Coming Home To]]></title>
@@ -661,7 +661,7 @@ Disney
 <time datetime="">2024.11.21</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/364281/36428175.jpg?version=20241122115549.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/364281/36428175.jpg?version=20241123013114.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stay Another Day]]></title>
