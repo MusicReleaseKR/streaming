@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Dec 2024 01:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 03:07:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -275,7 +275,7 @@
 <time datetime="">2024.12.15</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206911/20691129.jpg?version=20241216002706.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206911/20691129.jpg?version=20241216111324.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주차금지]]></title>
@@ -488,7 +488,7 @@ H3ATHR SUN(헤더썬)
 <time datetime="">2024.12.14</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41117/4111766.jpg?version=20241215002448.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41117/4111766.jpg?version=20241216120041.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Christmas Baby]]></title>
@@ -653,7 +653,7 @@ H3ATHR SUN(헤더썬)
 <time datetime="">2024.12.14</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41117/4111725.jpg?version=20241214120027.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41117/4111725.jpg?version=20241216111039.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[왜 날 사랑하게 만들어요?]]></title>
@@ -1036,14 +1036,14 @@ H3ATHR SUN(헤더썬)
             <guid>https://music.bugs.co.kr/album/36501279?wl_ref=list_ab_03</guid>
             <pubDate>Fri, 13 Dec 2024 09:21:30 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/11657002?wl_ref=list_ab_04" class="artistTitle" title="NEAT" onclick="
-" target="_self">NEAT</a>
+<a href="https://music.bugs.co.kr/artist/80261310?wl_ref=list_ab_04" class="artistTitle" title="Neat" onclick="
+" target="_self">Neat</a>
 </p>
 <p>
 <time datetime="">2024.12.13</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/365012/36501279.jpg?version=20241213180024.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/365012/36501279.jpg?version=20241216115708.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ravel: Sonatine, M. 40: I. Modéré]]></title>
