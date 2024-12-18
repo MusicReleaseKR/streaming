@@ -4,9 +4,27 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 02:57:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 03:31:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Buku Bhori Asa Tumi]]></title>
+            <link>https://music.bugs.co.kr/album/36493083?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36493083?wl_ref=list_ab_03</guid>
+            <pubDate>Wed, 18 Dec 2024 03:31:22 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/12066065?wl_ref=list_ab_04" class="artistTitle" title="Dipayon">Dipayon</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Dipayon||Dipayon||12066065||OK\\nDyou||Dyou||11821772||OK\\nOronyo||Oronyo||13996471||OK', ''); return false;">
+Dipayon
+</a> </p>
+<p>
+<time datetime="">2024.12.18</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/364930/36493083.jpg?version=20241218120045.0" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Extravagante]]></title>
             <link>https://music.bugs.co.kr/album/36447078?wl_ref=list_ab_03</link>
@@ -1064,21 +1082,6 @@ PiXXiE
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/367218/36721850.jpg?version=20241218014118.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[##B4B2MR]]></title>
-            <link>https://music.bugs.co.kr/album/36703886?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36703886?wl_ref=list_ab_03</guid>
-            <pubDate>Tue, 17 Dec 2024 04:24:57 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13175984?wl_ref=list_ab_04" class="artistTitle" title="Autumn!" onclick="
-" target="_self">Autumn!</a>
-</p>
-<p>
-<time datetime="">2024.12.17</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/367038/36703886.jpg?version=20241217003720.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
