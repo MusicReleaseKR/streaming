@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 대한민국</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Dec 2024 15:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Dec 2024 16:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -290,7 +290,7 @@
 <time datetime="">2024.12.19</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41120/4112010.jpg?version=1734598828000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41120/4112010.jpg?version=1734625221000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[V LIBERTY 2 Original Soundtrack]]></title>
@@ -320,7 +320,7 @@
 <time datetime="">2024.12.19</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206933/20693337.jpg?version=1734598822000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206933/20693337.jpg?version=1734624629000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정시원 Vol.1]]></title>
@@ -548,7 +548,7 @@ hyeminsong
 <time datetime="">2024.12.19</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41119/4111985.jpg?version=1734598811000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41119/4111985.jpg?version=1734622662000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2025 시작]]></title>
@@ -683,7 +683,7 @@ hyeminsong
 <time datetime="">2024.12.19</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206931/20693171.jpg?version=1734601501000" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206931/20693171.jpg?version=1734623014000" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Christmas With To. Ministry Vol.4]]></title>
