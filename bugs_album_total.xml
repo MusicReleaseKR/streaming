@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Dec 2024 15:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2024 16:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,7 +68,7 @@ Process
 <time datetime="">2024.12.21</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/368247/36824795.jpg?version=20241221020033.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/368247/36824795.jpg?version=20241222005124.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[One for the Road]]></title>
@@ -131,7 +131,7 @@ DJ Polyvox
 <time datetime="">2024.12.21</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/368201/36820195.jpg?version=20241221045011.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/368201/36820195.jpg?version=20241222005040.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[È UN GIORNO CARINO]]></title>
@@ -359,7 +359,7 @@ FUYUNJI
 <time datetime="">2024.12.21</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/365131/36513102.jpg?version=20241221045010.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/365131/36513102.jpg?version=20241222005744.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[17 Years of Brutality Volume III]]></title>
@@ -419,7 +419,7 @@ FUYUNJI
 <time datetime="">2024.12.21</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/364831/36483137.jpg?version=20241221045007.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/364831/36483137.jpg?version=20241222004732.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[a universe in your pocket]]></title>
@@ -674,7 +674,7 @@ FUYUNJI
 <time datetime="">2024.12.21</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/368406/36840688.jpg?version=20241221131022.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/368406/36840688.jpg?version=20241222011401.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[VENUS-432]]></title>
@@ -737,7 +737,7 @@ Francois-Rene Duchable(프랑수아-르네 뒤샤블)
 <time datetime="">2024.12.21</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/368222/36822249.jpg?version=20241221045013.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/368222/36822249.jpg?version=20241222005420.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Feel Free To Die Free]]></title>
