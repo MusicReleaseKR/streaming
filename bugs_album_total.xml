@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 16:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 17:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,7 +35,7 @@
 <time datetime="">2024.12.23</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/368426/36842646.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/368426/36842646.jpg?version=20241224015426.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[O Melhor]]></title>
@@ -50,7 +50,7 @@
 <time datetime="">2024.12.23</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/368423/36842378.jpg?version=20241223181132.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/368423/36842378.jpg?version=20241224021341.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[O Melhor de Di Paullo & Paulino]]></title>
@@ -125,7 +125,7 @@
 <time datetime="">2024.12.23</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/368406/36840622.jpg?version=20241223000026.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/368406/36840622.jpg?version=20241224012250.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tristesse Business Final Tour - Live Paris 20.11.24]]></title>
@@ -223,14 +223,14 @@
             <guid>https://music.bugs.co.kr/album/36840495?wl_ref=list_ab_03</guid>
             <pubDate>Mon, 23 Dec 2024 04:22:42 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/14029379?wl_ref=list_ab_04" class="artistTitle" title="Keysoul" onclick="
+<a href="https://music.bugs.co.kr/artist/14030164?wl_ref=list_ab_04" class="artistTitle" title="Keysoul" onclick="
 " target="_self">Keysoul</a>
 </p>
 <p>
 <time datetime="">2024.12.23</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/368404/36840495.jpg?version=20241223000026.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/368404/36840495.jpg?version=20241224012256.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Politike - Compositoras de Tango del SXX]]></title>
@@ -389,7 +389,7 @@ DJ Polyvox
 <time datetime="">2024.12.23</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/368297/36829750.jpg?version=20241223120041.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/368297/36829750.jpg?version=20241224015527.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Trust]]></title>
@@ -404,7 +404,7 @@ DJ Polyvox
 <time datetime="">2024.12.23</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/368285/36828599.jpg?version=20241223120041.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/368285/36828599.jpg?version=20241224013204.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Winter Shelter]]></title>
@@ -419,7 +419,7 @@ DJ Polyvox
 <time datetime="">2024.12.23</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/368279/36827911.jpg?version=20241223120041.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/368279/36827911.jpg?version=20241224012803.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Moon]]></title>
@@ -524,7 +524,7 @@ DJ Polyvox
 <time datetime="">2024.12.23</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/368201/36820195.jpg?version=20241223044031.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/368201/36820195.jpg?version=20241224012321.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Early Works, Vol. 5: Silence of the Giro]]></title>
