@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jan 2025 01:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 03:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,7 +80,7 @@
 <time datetime="">2025.01.09</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41125/4112516.jpg?version=20250109045317.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41125/4112516.jpg?version=20250109115006.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Aquí estás]]></title>
@@ -96,6 +96,21 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/369990/36999060.jpg?version=20250109010836.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rosas]]></title>
+            <link>https://music.bugs.co.kr/album/36424239?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36424239?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 09 Jan 2025 03:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13943053?wl_ref=list_ab_04" class="artistTitle" title="Elizza Naranjo" onclick="
+" target="_self">Elizza Naranjo</a>
+</p>
+<p>
+<time datetime="">2025.01.09</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/364242/36424239.jpg?version=20250109120031.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Welcome To StuyVille]]></title>
@@ -1110,21 +1125,6 @@ Teresa Berganza(테레사 베르간자)
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/364390/36439040.jpg?version=20250108120033.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lazy Lover]]></title>
-            <link>https://music.bugs.co.kr/album/36431301?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/36431301?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 08 Jan 2025 04:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13970889?wl_ref=list_ab_04" class="artistTitle" title="lovely lad" onclick="
-" target="_self">lovely lad</a>
-</p>
-<p>
-<time datetime="">2025.01.08</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/364313/36431301.jpg?version=20250108120033.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
