@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jan 2025 15:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jan 2025 16:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,7 +80,7 @@
 <time datetime="">2025.01.21</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370393/37039392.jpg?version=20250121062025.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/370393/37039392.jpg?version=20250122003437.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Violin Legend]]></title>
@@ -140,7 +140,7 @@
 <time datetime="">2025.01.21</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370392/37039236.jpg?version=20250121062012.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/370392/37039236.jpg?version=20250122011115.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Big Moment]]></title>
