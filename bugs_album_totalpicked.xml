@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jan 2025 14:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jan 2025 16:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,7 +35,7 @@
 <time datetime="">2025.01.28</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/206999/20699997.jpg?version=20250128180007.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/206999/20699997.jpg?version=20250129003141.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마지막 편지]]></title>
@@ -99,6 +99,21 @@ hyeminsong
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41135/4113593.jpg?version=20250128120020.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wash Away]]></title>
+            <link>https://music.bugs.co.kr/album/4113662?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4113662?wl_ref=list_ab_03</guid>
+            <pubDate>Tue, 28 Jan 2025 16:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20059759?wl_ref=list_ab_04" class="artistTitle" title="Balming Tiger" onclick="
+" target="_self">Balming Tiger</a>
+</p>
+<p>
+<time datetime="">2025.01.29</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41136/4113662.jpg?version=20250129000029.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수상한 그녀 Original Sound Track]]></title>
@@ -338,7 +353,7 @@ hyeminsong
 <time datetime="">2025.01.28</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207005/20700522.jpg?version=20250128120005.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207005/20700522.jpg?version=20250129005931.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[windmill]]></title>
@@ -416,7 +431,7 @@ Glass Animals(글래스 애니멀스)
 <time datetime="">2025.01.24</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370619/37061990.jpg?version=20250125010246.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/370619/37061990.jpg?version=20250129003344.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sports car]]></title>
@@ -990,7 +1005,7 @@ NANCY BOY
 <time datetime="">2025.01.24</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370612/37061265.jpg?version=20250125022312.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/370612/37061265.jpg?version=20250129005700.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[4X4]]></title>
@@ -1005,7 +1020,7 @@ NANCY BOY
 <time datetime="">2025.01.24</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41137/4113759.jpg?version=20250128003619.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41137/4113759.jpg?version=20250129005729.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[I've Tried Everything But Therapy (Part 2)]]></title>
@@ -1051,21 +1066,6 @@ NANCY BOY
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/370774/37077465.jpg?version=20250125012559.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ready For Love]]></title>
-            <link>https://music.bugs.co.kr/album/37061009?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37061009?wl_ref=list_ab_03</guid>
-            <pubDate>Mon, 27 Jan 2025 03:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12455976?wl_ref=list_ab_04" class="artistTitle" title="Matthew Ifield" onclick="
-" target="_self">Matthew Ifield</a>
-</p>
-<p>
-<time datetime="">2025.01.24</time>
-<span class="albumType">싱글</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/370610/37061009.jpg?version=20250124010235.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
