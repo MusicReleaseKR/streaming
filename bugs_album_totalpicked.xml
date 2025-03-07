@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Mar 2025 23:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 01:28:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
 <time datetime="">2025.03.07</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41159/4115971.jpg?version=20250307000028.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41159/4115971.jpg?version=20250307083859.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이 노래를 듣게 되면]]></title>
@@ -80,7 +80,7 @@
 <time datetime="">2025.03.07</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/373374/37337403.jpg?version=20250307000028.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/373374/37337403.jpg?version=20250307091301.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ACT LIKE THAT]]></title>
@@ -95,7 +95,7 @@
 <time datetime="">2025.03.06</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207096/20709644.jpg?version=20250306180035.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207096/20709644.jpg?version=20250307095401.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MAYHEM]]></title>
@@ -110,7 +110,7 @@
 <time datetime="">2025.03.07</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/373880/37388091.jpg?version=20250307000028.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/373880/37388091.jpg?version=20250307102007.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리 이야기]]></title>
@@ -140,7 +140,7 @@
 <time datetime="">2025.03.06</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41159/4115923.jpg?version=20250306180041.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41159/4115923.jpg?version=20250307083527.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성격차이]]></title>
@@ -155,7 +155,7 @@
 <time datetime="">2025.03.06</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41159/4115964.jpg?version=20250306180022.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41159/4115964.jpg?version=20250307092258.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[STARDUST LIFESTYLE]]></title>
@@ -331,7 +331,7 @@ Elton John(엘튼 존)
 <time datetime="">2025.03.05</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/373817/37381768.jpg?version=20250306031656.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/373817/37381768.jpg?version=20250307085223.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Off With Her Head]]></title>
@@ -564,14 +564,14 @@ Elton John(엘튼 존)
             <guid>https://music.bugs.co.kr/album/20709251?wl_ref=list_ab_03</guid>
             <pubDate>Wed, 05 Mar 2025 03:30:43 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80053072?wl_ref=list_ab_04" class="artistTitle" title="카를로스(Carlos)" onclick="
-" target="_self">카를로스(Carlos)</a>
+<a href="https://music.bugs.co.kr/artist/1377?wl_ref=list_ab_04" class="artistTitle" title="업타운(UPT)" onclick="
+" target="_self">업타운(UPT)</a>
 </p>
 <p>
 <time datetime="">2025.03.05</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207092/20709251.jpg?version=20250305120005.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207092/20709251.jpg?version=20250307083314.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아직도 이별중인 나는]]></title>
@@ -940,7 +940,7 @@ Rachel Zegler
 <time datetime="">2025.03.05</time>
 <span class="albumType">OST</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/373359/37335943.jpg?version=20250306143451.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/373359/37335943.jpg?version=20250307083001.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[confession]]></title>
