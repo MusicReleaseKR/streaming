@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Mar 2025 03:37:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Mar 2025 04:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,7 +50,7 @@
 <time datetime="">2025.03.16</time>
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207119/20711965.jpg?version=20250316120028.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207119/20711965.jpg?version=20250316131809.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아직도 걸음마]]></title>
@@ -96,6 +96,24 @@
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/41162/4116287.jpg?version=20250315180029.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Don’t Stop the Dance]]></title>
+            <link>https://music.bugs.co.kr/album/20711872?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20711872?wl_ref=list_ab_03</guid>
+            <pubDate>Sun, 16 Mar 2025 04:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/20084277?wl_ref=list_ab_04" class="artistTitle" title="Seiren 8">Seiren 8</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Seiren 8||Seiren 8||20084277||OK\\nFRIDAYYY||FRIDAYYY||80369276||OK', ''); return false;">
+Seiren 8
+</a> </p>
+<p>
+<time datetime="">2025.03.16</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207118/20711872.jpg?version=20250316120036.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일몰이 아쉽지 않은 이유]]></title>
@@ -1046,21 +1064,6 @@ Chloe Char (클로이 차)
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/207115/20711541.jpg?version=20250314120007.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(ㅠ.ㅠ)]]></title>
-            <link>https://music.bugs.co.kr/album/20708927?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/20708927?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 14 Mar 2025 03:29:44 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/20173116?wl_ref=list_ab_04" class="artistTitle" title="SINA" onclick="
-" target="_self">SINA</a>
-</p>
-<p>
-<time datetime="">2025.03.14</time>
-<span class="albumType">EP(미니)</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207089/20708927.jpg?version=20250314120022.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
