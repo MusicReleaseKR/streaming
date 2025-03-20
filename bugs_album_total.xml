@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Mar 2025 02:58:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 03:32:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -146,6 +146,21 @@ Colette Alliot-Lugaz(콜레테 알리오-뤼가)
             <enclosure url="https://image.bugsm.co.kr/album/images/170/372487/37248788.jpg?version=20250320044016.0" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Land Of Cowards]]></title>
+            <link>https://music.bugs.co.kr/album/37028001?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37028001?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 20 Mar 2025 03:31:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/14016861?wl_ref=list_ab_04" class="artistTitle" title="Acrid Semblance" onclick="
+" target="_self">Acrid Semblance</a>
+</p>
+<p>
+<time datetime="">2025.03.20</time>
+<span class="albumType">정규</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/370280/37028001.jpg?version=20250320120043.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Mozart: Violin Concerto No. 3, K. 216 - Prokofiev: Violin Concerto No. 2, Op. 63]]></title>
             <link>https://music.bugs.co.kr/album/37302383?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/37302383?wl_ref=list_ab_03</guid>
@@ -159,6 +174,21 @@ Colette Alliot-Lugaz(콜레테 알리오-뤼가)
 <span class="albumType">EP(미니)</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/373023/37302383.jpg?version=20250320044023.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Playing House]]></title>
+            <link>https://music.bugs.co.kr/album/20706666?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/20706666?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 20 Mar 2025 03:31:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/20230090?wl_ref=list_ab_04" class="artistTitle" title="마하" onclick="
+" target="_self">마하</a>
+</p>
+<p>
+<time datetime="">2025.03.20</time>
+<span class="albumType">EP(미니)</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207066/20706666.jpg?version=20250320120043.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Calle 2]]></title>
@@ -191,7 +221,7 @@ Kevin Saunderson
 <time datetime="">2025.03.20</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/327581/32758189.jpg?version=20250320020315.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/327581/32758189.jpg?version=20250320120007.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bade Zile (Chris Lake & Fritz Carlton Remix)]]></title>
@@ -209,7 +239,7 @@ Lakou Mizik
 <time datetime="">2025.03.20</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/163070/16307046.jpg?version=20250320031416.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/163070/16307046.jpg?version=20250320120006.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[That's Right]]></title>
@@ -224,7 +254,7 @@ Lakou Mizik
 <time datetime="">2025.03.20</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/146668/14666894.jpg?version=20250320020315.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/146668/14666894.jpg?version=20250320120006.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[All Night Alone]]></title>
@@ -242,7 +272,25 @@ Josement
 <time datetime="">2025.03.20</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/144312/14431287.jpg?version=20250320032339.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/144312/14431287.jpg?version=20250320120005.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Carry Your World]]></title>
+            <link>https://music.bugs.co.kr/album/4116513?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/4116513?wl_ref=list_ab_03</guid>
+            <pubDate>Thu, 20 Mar 2025 03:31:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/8055143?wl_ref=list_ab_04" class="artistTitle" title="ReOrder">ReOrder</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'ReOrder||ReOrder||8055143||OK\\nNeil Hunter||Neil Hunter||12271713||OK', ''); return false;">
+ReOrder
+</a> </p>
+<p>
+<time datetime="">2025.03.20</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41165/4116513.jpg?version=20250320120043.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Supernatural Songs of Ilaiyaraaja]]></title>
@@ -1065,60 +1113,6 @@ Yoga Music
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/374060/37406080.jpg?version=20250319120036.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[180 Flip: Looping Radiance]]></title>
-            <link>https://music.bugs.co.kr/album/37406078?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37406078?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 19 Mar 2025 03:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/11877788?wl_ref=list_ab_04" class="artistTitle" title="LO-FI CHILL">LO-FI CHILL</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'LO-FI CHILL||LO-FI CHILL||11877788||OK\\nChill Hip-hop Beats||Chill Hip-hop Beats||12054719||OK\\nLofi Sleep||Lofi Sleep||80379171||OK', ''); return false;">
-LO-FI CHILL
-</a> </p>
-<p>
-<time datetime="">2025.03.19</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/374060/37406078.jpg?version=20250319120036.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[30 Day Zen: Heartfire]]></title>
-            <link>https://music.bugs.co.kr/album/37406076?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37406076?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 19 Mar 2025 03:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13601786?wl_ref=list_ab_04" class="artistTitle" title="16 Bit Serenity">16 Bit Serenity</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, '16 Bit Serenity||16 Bit Serenity||13601786||OK\\nLoFi Hip-Hop||LoFi Hip-Hop||12876244||OK\\nLofi Beats||Lofi Beats||12401522||OK', ''); return false;">
-16 Bit Serenity
-</a> </p>
-<p>
-<time datetime="">2025.03.19</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/374060/37406076.jpg?version=20250319120036.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1 Lullaby Nebula: Stars On The Horizon]]></title>
-            <link>https://music.bugs.co.kr/album/37406074?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37406074?wl_ref=list_ab_03</guid>
-            <pubDate>Wed, 19 Mar 2025 03:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/12197489?wl_ref=list_ab_04" class="artistTitle" title="Calm Music">Calm Music</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Calm Music||Calm Music||12197489||OK\\nInstrumental||Instrumental||8016156||OK\\nSweet Dreams||Sweet Dreams||10915747||OK', ''); return false;">
-Calm Music
-</a> </p>
-<p>
-<time datetime="">2025.03.19</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/374060/37406074.jpg?version=20250319120036.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
