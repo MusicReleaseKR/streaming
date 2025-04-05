@@ -4,7 +4,7 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Apr 2025 03:00:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Apr 2025 03:34:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -143,6 +143,99 @@ GODDY GODDY
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/374889/37488930.jpg?version=20250405010028.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Loss]]></title>
+            <link>https://music.bugs.co.kr/album/37481315?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37481315?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 05 Apr 2025 03:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<!-- a tag title -->
+<a href="https://music.bugs.co.kr/artist/14105708?wl_ref=list_ab_04" class="artistTitle" title="Cmd q">Cmd q</a>
+<!-- a tag link -->
+<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'Cmd q||Cmd q||14105708||OK\\nUsman Anxari||Usman Anxari||13919378||OK\\nZeitgeister||Zeitgeister||13958342||OK', ''); return false;">
+Cmd q
+</a> </p>
+<p>
+<time datetime="">2025.04.05</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/374813/37481315.jpg?version=20250405120036.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lazy Afternoon]]></title>
+            <link>https://music.bugs.co.kr/album/37128324?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37128324?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 05 Apr 2025 03:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/14054651?wl_ref=list_ab_04" class="artistTitle" title="Evening Trails" onclick="
+" target="_self">Evening Trails</a>
+</p>
+<p>
+<time datetime="">2025.04.05</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/371283/37128324.jpg?version=20250405120036.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Midnight Whispers]]></title>
+            <link>https://music.bugs.co.kr/album/37128148?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37128148?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 05 Apr 2025 03:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/14054651?wl_ref=list_ab_04" class="artistTitle" title="Evening Trails" onclick="
+" target="_self">Evening Trails</a>
+</p>
+<p>
+<time datetime="">2025.04.05</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/371281/37128148.jpg?version=20250405120036.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Moonlit Dreams]]></title>
+            <link>https://music.bugs.co.kr/album/37128123?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37128123?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 05 Apr 2025 03:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/14054651?wl_ref=list_ab_04" class="artistTitle" title="Evening Trails" onclick="
+" target="_self">Evening Trails</a>
+</p>
+<p>
+<time datetime="">2025.04.05</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/371281/37128123.jpg?version=20250405120036.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Electric Storm]]></title>
+            <link>https://music.bugs.co.kr/album/37085637?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/37085637?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 05 Apr 2025 03:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/14054651?wl_ref=list_ab_04" class="artistTitle" title="Evening Trails" onclick="
+" target="_self">Evening Trails</a>
+</p>
+<p>
+<time datetime="">2025.04.05</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/370856/37085637.jpg?version=20250405120036.0" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ALIVE]]></title>
+            <link>https://music.bugs.co.kr/album/36716324?wl_ref=list_ab_03</link>
+            <guid>https://music.bugs.co.kr/album/36716324?wl_ref=list_ab_03</guid>
+            <pubDate>Sat, 05 Apr 2025 03:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="artist">
+<a href="https://music.bugs.co.kr/artist/13773635?wl_ref=list_ab_04" class="artistTitle" title="Bloomys" onclick="
+" target="_self">Bloomys</a>
+</p>
+<p>
+<time datetime="">2025.04.05</time>
+<span class="albumType">싱글</span>
+</p>]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/367163/36716324.jpg?version=20250405120036.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Days (Remixes)]]></title>
@@ -980,99 +1073,6 @@ Blippi
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/album/images/170/376791/37679150.jpg?version=20250404004842.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nobuyuki Tsujii Plays Debussy]]></title>
-            <link>https://music.bugs.co.kr/album/37679146?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37679146?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 04 Apr 2025 03:38:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/80060105?wl_ref=list_ab_04" class="artistTitle" title="Nobuyuki Tsujii(츠지이 노부유키/辻井伸行)" onclick="
-" target="_self">Nobuyuki Tsujii(츠지이 노부유키/辻井伸行)</a>
-</p>
-<p>
-<time datetime="">2025.04.04</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/376791/37679146.jpg?version=20250404011302.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Journey]]></title>
-            <link>https://music.bugs.co.kr/album/37679143?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37679143?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 04 Apr 2025 03:38:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/4206?wl_ref=list_ab_04" class="artistTitle" title="Amy Grant(에이미 그랜트)" onclick="
-" target="_self">Amy Grant(에이미 그랜트)</a>
-</p>
-<p>
-<time datetime="">2025.04.04</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/376791/37679143.jpg?version=20250404002709.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1997]]></title>
-            <link>https://music.bugs.co.kr/album/37679141?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37679141?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 04 Apr 2025 03:38:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/13059452?wl_ref=list_ab_04" class="artistTitle" title="Kids Return" onclick="
-" target="_self">Kids Return</a>
-</p>
-<p>
-<time datetime="">2025.04.04</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/376791/37679141.jpg?version=20250404004841.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Profound Foolishness Of ~]]></title>
-            <link>https://music.bugs.co.kr/album/37679140?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37679140?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 04 Apr 2025 03:38:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<!-- a tag title -->
-<a href="https://music.bugs.co.kr/artist/13940207?wl_ref=list_ab_04" class="artistTitle" title="amxnradio">amxnradio</a>
-<!-- a tag link -->
-<a href="javascript:void(0);" name="atag_martist_list" class="more" title="아티스트 전체보기" wise_log_str="?wl_ref=list_ab_04" onclick="bugs.layermenu.openMultiArtistSearchResultPopLayer(this, 'amxnradio||amxnradio||13940207||OK\\nJoel Houston||Joel Houston(조엘 휴스턴)||80013428||OK', ''); return false;">
-amxnradio
-</a> </p>
-<p>
-<time datetime="">2025.04.04</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/376791/37679140.jpg?version=20250404020323.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tak jak tutaj stoję]]></title>
-            <link>https://music.bugs.co.kr/album/37679132?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37679132?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 04 Apr 2025 03:38:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/12388533?wl_ref=list_ab_04" class="artistTitle" title="Wiktor Dyduła" onclick="
-" target="_self">Wiktor Dyduła</a>
-</p>
-<p>
-<time datetime="">2025.04.04</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/376791/37679132.jpg?version=20250404010356.0" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AIR]]></title>
-            <link>https://music.bugs.co.kr/album/37679126?wl_ref=list_ab_03</link>
-            <guid>https://music.bugs.co.kr/album/37679126?wl_ref=list_ab_03</guid>
-            <pubDate>Fri, 04 Apr 2025 03:38:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p class="artist">
-<a href="https://music.bugs.co.kr/artist/8075203?wl_ref=list_ab_04" class="artistTitle" title="Carpark North" onclick="
-" target="_self">Carpark North</a>
-</p>
-<p>
-<time datetime="">2025.04.04</time>
-<span class="albumType">정규</span>
-</p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/376791/37679126.jpg?version=20250404012955.0" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
