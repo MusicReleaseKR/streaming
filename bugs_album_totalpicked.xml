@@ -4,14 +4,14 @@
         <title>벅스 ─ 최신 음악 ─ 앨범 ─ 주목</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Apr 2025 15:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 16:27:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[IN THE RAIN]]></title>
             <link>https://music.bugs.co.kr/album/20718872?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/20718872?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 10 Apr 2025 15:24:01 GMT</pubDate>
+            <pubDate>Thu, 10 Apr 2025 16:26:36 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <a href="https://music.bugs.co.kr/artist/20156329?wl_ref=list_ab_04" class="artistTitle" title="XG" onclick="
 " target="_self">XG</a>
@@ -26,7 +26,7 @@
             <title><![CDATA[like JENNIE (Peggy Gou Remix)]]></title>
             <link>https://music.bugs.co.kr/album/4117758?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4117758?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 10 Apr 2025 15:24:01 GMT</pubDate>
+            <pubDate>Thu, 10 Apr 2025 16:26:36 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <!-- a tag title -->
 <a href="https://music.bugs.co.kr/artist/80265678?wl_ref=list_ab_04" class="artistTitle" title="제니 (JENNIE)">제니 (JENNIE)</a>
@@ -44,7 +44,7 @@
             <title><![CDATA[Past Lives]]></title>
             <link>https://music.bugs.co.kr/album/4117746?wl_ref=list_ab_03</link>
             <guid>https://music.bugs.co.kr/album/4117746?wl_ref=list_ab_03</guid>
-            <pubDate>Thu, 10 Apr 2025 15:24:01 GMT</pubDate>
+            <pubDate>Thu, 10 Apr 2025 16:26:36 GMT</pubDate>
             <content:encoded><![CDATA[<p class="artist">
 <!-- a tag title -->
 <a href="https://music.bugs.co.kr/artist/80263715?wl_ref=list_ab_04" class="artistTitle" title="Johnny Stimson">Johnny Stimson</a>
@@ -86,7 +86,7 @@ Johnny Stimson
 <time datetime="">2025.04.10</time>
 <span class="albumType">정규</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207183/20718320.jpg?version=20250410180027.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207183/20718320.jpg?version=20250411012119.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내 남은 사랑을 위해]]></title>
@@ -101,7 +101,7 @@ Johnny Stimson
 <time datetime="">2025.04.10</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/41176/4117673.jpg?version=20250410180011.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/41176/4117673.jpg?version=20250411010521.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[낙화]]></title>
@@ -554,7 +554,7 @@ Johnny Stimson
 <time datetime="">2025.04.10</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207178/20717811.jpg?version=20250410120027.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207178/20717811.jpg?version=20250411012150.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[을의 연애 OST Part.2]]></title>
@@ -767,7 +767,7 @@ Cheyenne Giles
 <time datetime="">2025.04.10</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/207176/20717663.jpg?version=20250410120027.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/207176/20717663.jpg?version=20250411010546.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ecstasy]]></title>
@@ -797,7 +797,7 @@ Cheyenne Giles
 <time datetime="">2025.04.09</time>
 <span class="albumType">싱글</span>
 </p>]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/album/images/170/377173/37717324.jpg?version=20250410092559.0" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/album/images/170/377173/37717324.jpg?version=20250411004953.0" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Heartbreak]]></title>
